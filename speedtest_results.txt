@@ -1,2 +1,38 @@
 RESULTS
 =======
+Node: 🇫🇮 Finland [*CIDR]
+DL: 309.7 | UL: 315.4
+---
+Node: 🇵🇱 Poland [*CIDR]
+DL: 306.8 | UL: 312.1
+---
+Node: 🇫🇮 Finland [*CIDR]
+DL: 302.0 | UL: 315.4
+---
+Node: 🇫🇮 Finland [*CIDR]
+DL: 260.5 | UL: 315.4
+---
+Node: 🇩🇪 Germany [*CIDR]
+DL: 185.0 | UL: 196.3
+---
+Node: 🇩🇪 Germany [*CIDR]
+DL: 159.6 | UL: 303.7
+---
+Node: 🇩🇪 Germany [*CIDR]
+DL: 153.7 | UL: 305.3
+---
+Node: 🇩🇪 Germany [*CIDR]
+DL: 128.8 | UL: 303.7
+---
+Node: 🇩🇪 Germany [*CIDR]
+DL: 123.7 | UL: 302.0
+---
+Node: 🇩🇪 Germany [*CIDR]
+DL: 113.5 | UL: 303.7
+---
+Node: 🇩🇪 Germany [*CIDR]
+DL: 95.2 | UL: 302.0
+---
+Node: 🇩🇪 Germany [*CIDR]
+DL: 91.0 | UL: 192.9
+---
