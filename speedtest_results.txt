@@ -1,62 +1,62 @@
 РЕЗУЛЬТАТЫ СКОРОСТИ
 ===================
 Node: 🇩🇪 Germany [*CIDR]
-Ping: 29.0ms | URL: 425.5ms
-Speed: DL 301.7 Mbps | UL 313.7 Mbps
-------------------------------
-Node: 🇫🇮 Finland [*CIDR]
-Ping: 15.6ms | URL: 389.5ms
-Speed: DL 300.5 Mbps | UL 322.1 Mbps
+Ping: 37.8ms | URL: 432.1ms
+Speed: DL 302.4 Mbps | UL 312.1 Mbps
 ------------------------------
 Node: 🇷🇺 Russia, Moscow [BL]
-Ping: 4.9ms | URL: 422.0ms
-Speed: DL 299.6 Mbps | UL 318.8 Mbps
+Ping: 22.1ms | URL: 365.1ms
+Speed: DL 299.7 Mbps | UL 318.8 Mbps
 ------------------------------
-Node: 🇪🇪 Estonia [*CIDR]
-Ping: 36.6ms | URL: 366.5ms
-Speed: DL 286.3 Mbps | UL 305.3 Mbps
+Node: 🇭🇺 Hungary [*CIDR]
+Ping: 38.7ms | URL: 424.0ms
+Speed: DL 278.8 Mbps | UL 297.0 Mbps
+------------------------------
+Node: 🇳🇱 The Netherlands, Amsterdam (Westpoort) [BL]
+Ping: 92.6ms | URL: 405.7ms
+Speed: DL 277.8 Mbps | UL 298.6 Mbps
+------------------------------
+Node: 🇭🇺 Hungary [*CIDR]
+Ping: 62.8ms | URL: 426.9ms
+Speed: DL 275.3 Mbps | UL 305.3 Mbps
+------------------------------
+Node: 🇩🇪 Germany, Berlin [BL]
+Ping: 53.0ms | URL: 402.1ms
+Speed: DL 195.3 Mbps | UL 312.1 Mbps
+------------------------------
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+Ping: 69.7ms | URL: 431.7ms
+Speed: DL 186.4 Mbps | UL 305.3 Mbps
+------------------------------
+Node: 🇵🇱 Poland [*CIDR]
+Ping: 60.1ms | URL: 430.6ms
+Speed: DL 185.9 Mbps | UL 302.0 Mbps
 ------------------------------
 Node: 🇩🇪 Germany [*CIDR]
-Ping: 26.0ms | URL: 425.3ms
-Speed: DL 280.4 Mbps | UL 313.7 Mbps
+Ping: 22.9ms | URL: 403.7ms
+Speed: DL 178.2 Mbps | UL 312.1 Mbps
 ------------------------------
-Node: 🇵🇱 Poland [*CIDR]
-Ping: 37.5ms | URL: 404.3ms
-Speed: DL 270.5 Mbps | UL 308.7 Mbps
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+Ping: 15.5ms | URL: 403.4ms
+Speed: DL 156.7 Mbps | UL 270.1 Mbps
 ------------------------------
-Node: 🇭🇺 Hungary [*CIDR]
-Ping: 58.8ms | URL: 421.7ms
-Speed: DL 269.5 Mbps | UL 303.7 Mbps
-------------------------------
-Node: 🇳🇱 The Netherlands [*CIDR]
-Ping: 70.4ms | URL: 419.7ms
-Speed: DL 261.5 Mbps | UL 216.4 Mbps
-------------------------------
-Node: 🇭🇺 Hungary [*CIDR]
-Ping: 58.8ms | URL: 410.5ms
-Speed: DL 238.7 Mbps | UL 246.6 Mbps
+Node: 🇵🇱 Poland, Warsaw [BL]
+Ping: 72.8ms | URL: 405.3ms
+Speed: DL 70.1 Mbps | UL 0.0 Mbps
 ------------------------------
 Node: 🇷🇺 Russia [*CIDR]
-Ping: 28.1ms | URL: 424.6ms
-Speed: DL 233.9 Mbps | UL 298.6 Mbps
-------------------------------
-Node: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) [BL]
-Ping: 71.0ms | URL: 406.8ms
-Speed: DL 176.8 Mbps | UL 300.3 Mbps
-------------------------------
-Node: 🇵🇱 Poland [*CIDR]
-Ping: 57.1ms | URL: 417.2ms
-Speed: DL 159.3 Mbps | UL 303.7 Mbps
-------------------------------
-Node: 🇮🇹 Italy [*CIDR]
-Ping: 79.1ms | URL: 413.7ms
-Speed: DL 125.0 Mbps | UL 302.0 Mbps
-------------------------------
-Node: 🇷🇺 Russia [*CIDR]
-Ping: 20.2ms | URL: 405.8ms
+Ping: 30.1ms | URL: 348.6ms
 Speed: DL 0.0 Mbps | UL 0.0 Mbps
 ------------------------------
 Node: 🇷🇺 Russia [*CIDR]
-Ping: 20.5ms | URL: 413.8ms
+Ping: 32.3ms | URL: 415.8ms
+Speed: DL 0.0 Mbps | UL 0.0 Mbps
+------------------------------
+Node: 🇷🇺 Russia [*CIDR]
+Ping: 4.7ms | URL: 423.9ms
+Speed: DL 0.0 Mbps | UL 0.0 Mbps
+------------------------------
+Node: 🇷🇺 Russia [*CIDR]
+Ping: 5.6ms | URL: 425.7ms
 Speed: DL 0.0 Mbps | UL 0.0 Mbps
 ------------------------------
