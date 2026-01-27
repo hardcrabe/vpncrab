@@ -1,11 +1,2 @@
 RESULTS
 =======
-Node: 🇵🇱 Poland [*CIDR]
-DL: 298.6 | UL: 305.3
----
-Node: 🇩🇪 Germany [*CIDR]
-DL: 113.9 | UL: 186.2
----
-Node: 🇩🇪 Germany [*CIDR]
-DL: 106.1 | UL: 159.4
----
