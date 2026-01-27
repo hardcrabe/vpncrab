@@ -1,23 +1,47 @@
 RESULTS
 =======
-Node: 🇵🇱 Poland [*CIDR]
-DL: 218.1 | UL: 234.9
----
-Node: 🇩🇪 Germany [*CIDR] VK
-DL: 210.1 | UL: 110.7
----
-Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
-DL: 197.6 | UL: 189.6
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 188.5 | UL: 300.3
----
-Node: 🇩🇪 Germany, Nuremberg [BL]
-DL: 186.2 | UL: 156.0
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 146.6 | UL: 192.9
+Node: 🇫🇮 Finland [SNI-RU] m.ok.ru
+DL: 298.6 | UL: 305.3
 ---
 Node: 🇵🇱 Poland [*CIDR] VK
-DL: 103.2 | UL: 105.7
+DL: 263.8 | UL: 251.7
+---
+Node: 🇳🇱 The Netherlands, Alkmaar [BL]
+DL: 250.8 | UL: 310.4
+---
+Node: 🇳🇱 The Netherlands, Alkmaar [BL]
+DL: 220.0 | UL: 310.4
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 204.3 | UL: 297.0
+---
+Node: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) [BL]
+DL: 195.0 | UL: 303.7
+---
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 186.2 | UL: 305.3
+---
+Node: 🇵🇱 Poland [SNI-RU] m.vk.ru
+DL: 183.7 | UL: 300.3
+---
+Node: 🇵🇱 Poland [SNI-RU] m.vk.ru
+DL: 181.0 | UL: 300.3
+---
+Node: 🇩🇪 Germany [SNI-RU] sun6-21.userapi.com
+DL: 178.0 | UL: 167.8
+---
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 175.1 | UL: 302.0
+---
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 168.0 | UL: 303.7
+---
+Node: 🇵🇱 Poland [*CIDR]
+DL: 165.0 | UL: 297.0
+---
+Node: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) [BL]
+DL: 164.8 | UL: 302.0
+---
+Node: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) [BL]
+DL: 158.5 | UL: 302.0
 ---
