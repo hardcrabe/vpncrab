@@ -1,5 +1,14 @@
 RESULTS
 =======
-Node: 🇵🇱 Poland — #685
-DL: 295.9 | UL: 320.4
+Node: 🇫🇮 Finland [SNI-RU] m.ok.ru
+DL: 300.1 | UL: 317.1
+---
+Node: 🇵🇱 Poland [*CIDR]
+DL: 297.8 | UL: 307.0
+---
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 212.4 | UL: 201.3
+---
+Node: 🇩🇪 Germany [*CIDR]
+DL: 120.2 | UL: 291.9
 ---
