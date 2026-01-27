@@ -1,0 +1,1 @@
+vless://419ccc44-0a46-4461-a73f-2d6f44fecede@95.163.208.119:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L4Pdk1P9RGI2B8XT9MCASzlD0Ra09bPOGBl_GduLjx0&security=reality&sid=ce11cd7625d4f72e&sni=yandex.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
