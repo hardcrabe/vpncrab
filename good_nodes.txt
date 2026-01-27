@@ -1,1 +1,1 @@
-vless://9ed1ff3b-dfe6-478f-95d4-0dcdc512c1bf@89.221.203.194:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cjM-gNYIiNglmuM7AUymiDT6InmwdtWoSUeeMEONj0w&security=reality&sid=aaaaaaaa&sni=static.rutube.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20static.rutube.ru
+vless://419ccc44-0a46-4461-a73f-2d6f44fecede@95.163.208.119:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WtIKtTEP00B4vCCFxKfzXQo0xAh8iLJpOBMMBgde3Gk&security=reality&sid=49ebf5c15a73d430&sni=yandex.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23685
