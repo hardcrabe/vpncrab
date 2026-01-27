@@ -1,2 +1,5 @@
 RESULTS
 =======
+Node: 🇩🇪 Germany [*CIDR]
+DL: 147.0 | UL: 85.6
+---
