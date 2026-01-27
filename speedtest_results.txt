@@ -1,5 +1,5 @@
 RESULTS
 =======
-Node: 🇫🇮 Finland [SNI-RU] static.rutube.ru
-DL: 289.2 | UL: 270.1
+Node: 🇵🇱 Poland — #685
+DL: 295.9 | UL: 320.4
 ---
