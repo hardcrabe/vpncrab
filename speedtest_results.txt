@@ -1,2 +1,47 @@
 RESULTS
 =======
+Node: 🇪🇪 Estonia [*CIDR] VK
+DL: 91.9 | UL: 100.7
+---
+Node: 🇪🇪 Estonia [*CIDR] VK
+DL: 91.9 | UL: 97.3
+---
+Node: 🇪🇪 Estonia [*CIDR] VK
+DL: 91.9 | UL: 99.0
+---
+Node: 🇫🇮 Finland [SNI-RU] m.ok.ru
+DL: 89.5 | UL: 97.3
+---
+Node: 🇺🇸 United States [*CIDR]
+DL: 89.3 | UL: 100.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 88.7 | UL: 95.6
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 88.5 | UL: 97.3
+---
+Node: 🇺🇸 United States [SNI-RU] sun6-21.userapi.com
+DL: 87.5 | UL: 94.0
+---
+Node: 🇩🇪 Germany, Frankfurt am Main [BL]
+DL: 84.7 | UL: 92.3
+---
+Node: 🇫🇮 Finland [SNI-RU] www.vk.com
+DL: 84.5 | UL: 94.0
+---
+Node: 🇺🇸 United States [SNI-RU] sun6-21.userapi.com
+DL: 84.3 | UL: 94.0
+---
+Node: 🇪🇪 Estonia [*CIDR] VK
+DL: 82.6 | UL: 100.7
+---
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 82.0 | UL: 94.0
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 81.4 | UL: 100.7
+---
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 80.3 | UL: 92.3
+---
