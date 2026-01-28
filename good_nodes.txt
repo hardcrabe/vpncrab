@@ -1,1 +1,2 @@
-1
+vless://9dadf4a6-2ed5-4414-982f-05befa366905@87.239.110.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=m.vk.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B%2ACIDR%5D%20VK
+
