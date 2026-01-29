@@ -1,65 +1,80 @@
 RESULTS
 =======
-Node: 🇱🇻 Latvia [SNI-RU] akashi.vk-portal.net
-DL: 293.4 | UL: 310.4
+Node: 🇫🇮 Finland, Helsinki [BL]
+DL: 303.5 | UL: 251.7
 ---
-Node: 🇵🇱 Poland [*CIDR]
-DL: 278.5 | UL: 307.0
+Node: 🇪🇪 Estonia [SNI-RU] sun6-21.userapi.com
+DL: 291.9 | UL: 273.5
+---
+Node: 🇫🇮 Finland, Helsinki [BL]
+DL: 286.3 | UL: 221.5
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 285.0 | UL: 265.1
+---
+Node: 🇱🇻 Latvia [*CIDR] CDN
+DL: 282.7 | UL: 209.7
+---
+Node: 🇫🇮 Finland, Helsinki [BL]
+DL: 273.7 | UL: 293.6
 ---
 Node: 🇫🇮 Finland [*CIDR]
-DL: 260.7 | UL: 302.0
+DL: 271.8 | UL: 302.0
 ---
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 235.5 | UL: 300.3
+Node: 🇪🇪 Estonia [SNI-RU] sun6-21.userapi.com
+DL: 257.7 | UL: 315.4
 ---
-Node: 🇳🇱 The Netherlands, Alkmaar [BL]
-DL: 228.0 | UL: 310.4
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 213.9 | UL: 179.5
 ---
-Node: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) [BL]
-DL: 212.2 | UL: 302.0
+Node: 🇺🇸 United States [SNI-RU] sun6-21.userapi.com
+DL: 196.3 | UL: 214.7
 ---
 Node: 🇫🇮 Finland [SNI-RU] www.vk.com
-DL: 204.1 | UL: 219.8
+DL: 192.1 | UL: 221.5
 ---
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 193.8 | UL: 302.0
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 190.6 | UL: 161.1
 ---
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 188.5 | UL: 305.3
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 186.0 | UL: 189.6
 ---
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 172.4 | UL: 302.0
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 165.9 | UL: 307.0
----
-Node: 🇦🇱 Albania [*CIDR]
-DL: 162.7 | UL: 270.1
----
-Node: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) [BL]
-DL: 155.4 | UL: 303.7
----
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 155.4 | UL: 302.0
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 139.9 | UL: 303.7
----
-Node: 🇩🇪 Germany [*CIDR]
-DL: 113.9 | UL: 135.9
----
-Node: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) [BL]
-DL: 105.1 | UL: 176.2
----
-Node: 🇩🇪 Germany [*CIDR] VK
-DL: 104.6 | UL: 92.3
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 101.1 | UL: 302.0
----
-Node: 🇸🇪 Sweden [*CIDR] VK
-DL: 96.9 | UL: 253.3
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 182.9 | UL: 189.6
 ---
 Node: 🇱🇻 Latvia, Riga [BL]
-DL: 84.3 | UL: 82.2
+DL: 176.6 | UL: 95.6
+---
+Node: 🇱🇻 Latvia [SNI-RU] akashi.vk-portal.net
+DL: 138.6 | UL: 310.4
+---
+Node: 🇦🇱 Albania, Tirana [BL]
+DL: 137.4 | UL: 297.0
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 136.1 | UL: 280.2
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 114.5 | UL: 276.8
+---
+Node: 🇳🇱 The Netherlands [SNI-RU] sun6-21.userapi.com
+DL: 114.5 | UL: 308.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 105.3 | UL: 253.3
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 95.4 | UL: 164.4
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 92.3 | UL: 276.8
+---
+Node: 🇩🇪 Germany [SNI-RU] sun6-21.userapi.com
+DL: 80.7 | UL: 85.6
+---
+Node: 🇩🇪 Germany [SNI-RU] sun6-21.userapi.com
+DL: 80.3 | UL: 83.9
+---
+Node: 🇩🇪 Germany [SNI-RU] sun6-21.userapi.com
+DL: 80.3 | UL: 88.9
 ---
