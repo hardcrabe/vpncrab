@@ -1,65 +1,74 @@
 RESULTS
 =======
-Node: 🇫🇮 Finland, Helsinki [BL]
-DL: 305.8 | UL: 303.7
+Node: 🇸🇪 Sweden, Stockholm [BL]
+DL: 307.2 | UL: 278.5
 ---
 Node: 🇱🇻 Latvia, Riga [BL]
-DL: 304.5 | UL: 318.8
+DL: 304.7 | UL: 317.1
 ---
-Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
-DL: 300.7 | UL: 198.0
+Node: 🇱🇻 Latvia, Riga [BL]
+DL: 304.5 | UL: 317.1
 ---
-Node: 🇱🇻 Latvia [SNI-RU] akashi.vk-portal.net
-DL: 300.3 | UL: 221.5
+Node: 🇱🇻 Latvia, Riga [BL]
+DL: 304.3 | UL: 317.1
 ---
-Node: 🇫🇮 Finland, Helsinki [BL]
-DL: 298.6 | UL: 320.4
+Node: 🇬🇧 United Kingdom, London [BL]
+DL: 303.7 | UL: 315.4
 ---
-Node: 🇵🇱 Poland [*CIDR]
-DL: 292.8 | UL: 310.4
----
-Node: 🇱🇻 Latvia [SNI-RU] akashi.vk-portal.net
-DL: 288.4 | UL: 198.0
----
-Node: 🇳🇱 The Netherlands, Amsterdam (Westpoort) [BL]
-DL: 285.2 | UL: 310.4
+Node: 🇱🇻 Latvia, Riga [BL]
+DL: 303.0 | UL: 317.1
 ---
 Node: 🇳🇱 The Netherlands, Duivendrecht [BL]
-DL: 277.2 | UL: 302.0
+DL: 281.6 | UL: 307.0
 ---
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 276.8 | UL: 308.7
----
-Node: 🇵🇱 Poland, Warsaw [BL]
-DL: 271.8 | UL: 291.9
+Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
+DL: 270.3 | UL: 219.8
 ---
 Node: 🇱🇻 Latvia, Riga [BL]
-DL: 252.7 | UL: 320.4
+DL: 262.1 | UL: 315.4
 ---
-Node: 🇩🇪 Germany, Frankfurt am Main [BL]
-DL: 213.1 | UL: 310.4
+Node: 🇱🇻 Latvia, Riga [BL]
+DL: 260.3 | UL: 313.7
 ---
-Node: 🇩🇪 Germany, Frankfurt am Main [BL]
-DL: 201.3 | UL: 312.1
+Node: 🇸🇪 Sweden, Stockholm [BL]
+DL: 256.3 | UL: 266.8
 ---
-Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
-DL: 195.7 | UL: 162.7
+Node: 🇸🇪 Sweden, Stockholm [BL]
+DL: 255.2 | UL: 278.5
 ---
-Node: 🇫🇮 Finland, Helsinki [BL]
-DL: 192.7 | UL: 176.2
----
-Node: 🇺🇸 United States [SNI-RU] sun6-21.userapi.com
-DL: 187.9 | UL: 194.6
----
-Node: 🇺🇸 United States [SNI-RU] sun6-21.userapi.com
-DL: 175.1 | UL: 181.2
----
-Node: 🇺🇸 United States [SNI-RU] sun6-21.userapi.com
-DL: 172.2 | UL: 196.3
+Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
+DL: 246.2 | UL: 246.6
 ---
 Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 146.0 | UL: 307.0
+DL: 237.8 | UL: 308.7
 ---
-Node: 🇫🇮 Finland [SNI-RU] www.vk.com
-DL: 142.6 | UL: 140.9
+Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
+DL: 234.3 | UL: 283.5
+---
+Node: 🇱🇻 Latvia, Riga [BL]
+DL: 231.1 | UL: 315.4
+---
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 201.7 | UL: 109.1
+---
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 185.4 | UL: 166.1
+---
+Node: 🇫🇮 Finland [SNI-RU] 82.img.avito.st
+DL: 179.1 | UL: 162.7
+---
+Node: 🇺🇸 United States [SNI-RU] sun6-21.userapi.com
+DL: 177.4 | UL: 166.1
+---
+Node: 🇩🇪 Germany, Frankfurt am Main [BL]
+DL: 176.8 | UL: 307.0
+---
+Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
+DL: 172.6 | UL: 174.5
+---
+Node: 🇳🇱 The Netherlands [SNI-RU] m.ok.ru
+DL: 145.3 | UL: 278.5
+---
+Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
+DL: 116.0 | UL: 258.4
 ---
