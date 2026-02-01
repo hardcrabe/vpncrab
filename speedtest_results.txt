@@ -1,74 +1,56 @@
 RESULTS
 =======
-Node: 🇸🇪 Sweden, Stockholm [BL]
-DL: 307.2 | UL: 278.5
----
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 304.7 | UL: 317.1
----
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 304.5 | UL: 317.1
----
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 304.3 | UL: 317.1
----
 Node: 🇬🇧 United Kingdom, London [BL]
-DL: 303.7 | UL: 315.4
+DL: 309.3 | UL: 323.8
 ---
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 303.0 | UL: 317.1
+Node: 🇫🇮 Finland [*CIDR] YA
+DL: 305.1 | UL: 307.0
 ---
-Node: 🇳🇱 The Netherlands, Duivendrecht [BL]
-DL: 281.6 | UL: 307.0
+Node: 🇵🇱 Poland [SNI-RU] yandex.ru
+DL: 303.5 | UL: 295.3
 ---
-Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
-DL: 270.3 | UL: 219.8
+Node: 🇪🇪 Estonia [*CIDR]
+DL: 301.6 | UL: 317.1
 ---
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 262.1 | UL: 315.4
+Node: 🇪🇪 Estonia [*CIDR]
+DL: 300.1 | UL: 313.7
 ---
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 260.3 | UL: 313.7
+Node: 🇪🇪 Estonia [*CIDR]
+DL: 299.7 | UL: 318.8
 ---
-Node: 🇸🇪 Sweden, Stockholm [BL]
-DL: 256.3 | UL: 266.8
+Node: 🇫🇮 Finland [*CIDR]
+DL: 295.9 | UL: 317.1
 ---
-Node: 🇸🇪 Sweden, Stockholm [BL]
-DL: 255.2 | UL: 278.5
+Node: 🇵🇱 Poland [*CIDR]
+DL: 294.0 | UL: 308.7
 ---
-Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
-DL: 246.2 | UL: 246.6
+Node: 🇳🇱 The Netherlands, Dronten [BL]
+DL: 292.3 | UL: 307.0
 ---
 Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 237.8 | UL: 308.7
+DL: 280.6 | UL: 298.6
 ---
-Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
-DL: 234.3 | UL: 283.5
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 273.0 | UL: 305.3
 ---
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 231.1 | UL: 315.4
+Node: 🇳🇱 The Netherlands, Dronten [BL]
+DL: 263.6 | UL: 305.3
 ---
-Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
-DL: 201.7 | UL: 109.1
----
-Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
-DL: 185.4 | UL: 166.1
+Node: 🇩🇪 Germany [SNI-RU] sun6-21.userapi.com
+DL: 189.6 | UL: 167.8
 ---
 Node: 🇫🇮 Finland [SNI-RU] 82.img.avito.st
-DL: 179.1 | UL: 162.7
+DL: 157.9 | UL: 169.4
 ---
-Node: 🇺🇸 United States [SNI-RU] sun6-21.userapi.com
-DL: 177.4 | UL: 166.1
+Node: 🇬🇧 United Kingdom, London [BL]
+DL: 134.0 | UL: 224.8
 ---
-Node: 🇩🇪 Germany, Frankfurt am Main [BL]
-DL: 176.8 | UL: 307.0
+Node: 🇵🇱 Poland, Warsaw [BL]
+DL: 133.4 | UL: 265.1
 ---
-Node: 🇫🇮 Finland [SNI-RU] sun6-21.userapi.com
-DL: 172.6 | UL: 174.5
+Node: 🇩🇪 Germany [*CIDR] VK
+DL: 95.2 | UL: 94.0
 ---
-Node: 🇳🇱 The Netherlands [SNI-RU] m.ok.ru
-DL: 145.3 | UL: 278.5
----
-Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
-DL: 116.0 | UL: 258.4
+Node: 🇩🇪 Germany [*CIDR] VK
+DL: 86.0 | UL: 80.5
 ---
