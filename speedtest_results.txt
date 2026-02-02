@@ -1,56 +1,62 @@
 RESULTS
 =======
-Node: 🇬🇧 United Kingdom, London [BL]
-DL: 309.3 | UL: 323.8
+Node: 🇪🇪 Estonia, Tallinn [BL]
+DL: 307.2 | UL: 318.8
 ---
-Node: 🇫🇮 Finland [*CIDR] YA
-DL: 305.1 | UL: 307.0
+Node: 🇪🇪 Estonia, Tallinn [BL]
+DL: 301.4 | UL: 161.1
 ---
-Node: 🇵🇱 Poland [SNI-RU] yandex.ru
-DL: 303.5 | UL: 295.3
----
-Node: 🇪🇪 Estonia [*CIDR]
-DL: 301.6 | UL: 317.1
+Node: 🇦🇱 Albania [*CIDR]
+DL: 296.3 | UL: 308.7
 ---
 Node: 🇪🇪 Estonia [*CIDR]
-DL: 300.1 | UL: 313.7
----
-Node: 🇪🇪 Estonia [*CIDR]
-DL: 299.7 | UL: 318.8
----
-Node: 🇫🇮 Finland [*CIDR]
-DL: 295.9 | UL: 317.1
----
-Node: 🇵🇱 Poland [*CIDR]
-DL: 294.0 | UL: 308.7
----
-Node: 🇳🇱 The Netherlands, Dronten [BL]
-DL: 292.3 | UL: 307.0
+DL: 293.2 | UL: 305.3
 ---
 Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 280.6 | UL: 298.6
+DL: 288.1 | UL: 305.3
 ---
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 273.0 | UL: 305.3
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 287.9 | UL: 302.0
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 285.8 | UL: 312.1
 ---
 Node: 🇳🇱 The Netherlands, Dronten [BL]
-DL: 263.6 | UL: 305.3
+DL: 279.3 | UL: 307.0
 ---
-Node: 🇩🇪 Germany [SNI-RU] sun6-21.userapi.com
-DL: 189.6 | UL: 167.8
+Node: 🇳🇱 The Netherlands, Dronten [BL]
+DL: 277.9 | UL: 312.1
 ---
-Node: 🇫🇮 Finland [SNI-RU] 82.img.avito.st
-DL: 157.9 | UL: 169.4
+Node: 🇳🇱 The Netherlands, Dronten [BL]
+DL: 276.8 | UL: 307.0
 ---
-Node: 🇬🇧 United Kingdom, London [BL]
-DL: 134.0 | UL: 224.8
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 272.6 | UL: 295.3
+---
+Node: 🇳🇱 The Netherlands, Amsterdam (Westpoort) [BL]
+DL: 252.7 | UL: 307.0
+---
+Node: 🇳🇱 The Netherlands, Dronten [BL]
+DL: 222.1 | UL: 305.3
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 219.8 | UL: 172.8
 ---
 Node: 🇵🇱 Poland, Warsaw [BL]
-DL: 133.4 | UL: 265.1
+DL: 209.3 | UL: 156.0
+---
+Node: 🇳🇱 The Netherlands, Alkmaar [BL]
+DL: 204.9 | UL: 313.7
+---
+Node: 🇱🇹 Lithuania [*CIDR] YA
+DL: 154.6 | UL: 253.3
+---
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 111.1 | UL: 305.3
+---
+Node: 🇫🇮 Finland, Helsinki [BL]
+DL: 107.0 | UL: 218.1
 ---
 Node: 🇩🇪 Germany [*CIDR] VK
-DL: 95.2 | UL: 94.0
----
-Node: 🇩🇪 Germany [*CIDR] VK
-DL: 86.0 | UL: 80.5
+DL: 86.2 | UL: 303.7
 ---
