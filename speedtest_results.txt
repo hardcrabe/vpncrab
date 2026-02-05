@@ -1,113 +1,68 @@
 RESULTS
 =======
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 309.3 | UL: 320.4
+Node: 🇫🇮 Finland [*CIDR] VK
+DL: 289.8 | UL: 298.6
 ---
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 308.3 | UL: 318.8
----
-Node: 🇳🇴 Norway [*CIDR] VK
-DL: 302.0 | UL: 320.4
----
-Node: 🇪🇪 Estonia [*CIDR] VK
-DL: 301.8 | UL: 322.1
----
-Node: 🇫🇮 Finland, Helsinki [BL]
-DL: 301.6 | UL: 115.8
----
-Node: 🇪🇪 Estonia [*CIDR] VK
-DL: 301.4 | UL: 318.8
----
-Node: 🇫🇮 Finland [SNI-RU] m.ok.ru
-DL: 300.5 | UL: 320.4
----
-Node: 🇳🇴 Norway [*CIDR] VK
-DL: 299.7 | UL: 317.1
----
-Node: 🇫🇮 Finland, Helsinki [BL]
-DL: 299.5 | UL: 87.2
----
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 299.5 | UL: 182.9
----
-Node: 🇳🇴 Norway [*CIDR]
-DL: 299.3 | UL: 322.1
----
-Node: 🇫🇷 France, Paris [BL]
-DL: 298.8 | UL: 308.7
+Node: 🇨🇭 Switzerland [*CIDR] YA
+DL: 289.2 | UL: 310.4
 ---
 Node: 🇫🇮 Finland [*CIDR] VK
-DL: 296.5 | UL: 313.7
----
-Node: 🇩🇪 Germany [*CIDR] VK
-DL: 296.3 | UL: 214.7
----
-Node: 🇸🇪 Sweden, Stockholm [BL]
-DL: 295.9 | UL: 317.1
----
-Node: 🇱🇻 Latvia [SNI-RU] m.ok.ru
-DL: 295.9 | UL: 317.1
----
-Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
-DL: 295.3 | UL: 313.7
----
-Node: 🇫🇮 Finland [SNI-RU] m.ok.ru
-DL: 292.8 | UL: 99.0
----
-Node: 🇸🇪 Sweden, Stockholm [BL]
-DL: 289.8 | UL: 315.4
----
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 289.4 | UL: 92.3
----
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 288.6 | UL: 312.1
----
-Node: 🇸🇪 Sweden [SNI-RU] yandex.ru
-DL: 276.6 | UL: 315.4
----
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 269.3 | UL: 320.4
----
-Node: 🇩🇪 Germany [*CIDR] VK
-DL: 267.6 | UL: 307.0
----
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 242.2 | UL: 320.4
----
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 240.8 | UL: 318.8
+DL: 286.7 | UL: 293.6
 ---
 Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 238.4 | UL: 302.0
+DL: 263.4 | UL: 142.6
+---
+Node: 🇨🇭 Switzerland [*CIDR] VK
+DL: 256.5 | UL: 308.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 256.1 | UL: 176.2
+---
+Node: 🇫🇮 Finland [*CIDR] VK
+DL: 246.8 | UL: 233.2
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 241.8 | UL: 276.8
+---
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 240.8 | UL: 305.3
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 239.7 | UL: 285.2
 ---
 Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 202.8 | UL: 258.4
+DL: 238.2 | UL: 303.7
 ---
-Node: 🇬🇧 United Kingdom, London [BL]
-DL: 198.0 | UL: 293.6
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 230.9 | UL: 307.0
 ---
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 193.6 | UL: 307.0
+Node: 🇨🇭 Switzerland, Zurich [BL]
+DL: 224.4 | UL: 307.0
 ---
-Node: 🇬🇧 United Kingdom, London [BL]
-DL: 185.8 | UL: 297.0
+Node: 🇨🇭 Switzerland, Zurich [BL]
+DL: 210.6 | UL: 305.3
 ---
-Node: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) [BL]
-DL: 132.3 | UL: 97.3
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 191.1 | UL: 305.3
 ---
-Node: 🇬🇧 United Kingdom, London [BL]
-DL: 131.5 | UL: 291.9
+Node: 🇵🇱 Poland, Warsaw [BL]
+DL: 160.2 | UL: 80.5
 ---
-Node: 🇸🇰 Slovakia, Bratislava [BL]
-DL: 121.8 | UL: 92.3
+Node: 🇫🇮 Finland [*CIDR] VK
+DL: 156.4 | UL: 300.3
 ---
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 116.6 | UL: 308.7
+Node: 🇦🇹 Austria [*CIDR] YA
+DL: 144.7 | UL: 97.3
 ---
-Node: 🇪🇪 Estonia, Tallinn [BL]
-DL: 100.2 | UL: 130.9
+Node: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) [BL]
+DL: 137.2 | UL: 295.3
 ---
-Node: 🇬🇧 United Kingdom [*CIDR] VK
-DL: 88.7 | UL: 290.2
+Node: 🇪🇪 Estonia [*CIDR]
+DL: 132.7 | UL: 127.5
+---
+Node: 🇪🇪 Estonia [*CIDR]
+DL: 130.9 | UL: 162.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 117.2 | UL: 305.3
 ---
