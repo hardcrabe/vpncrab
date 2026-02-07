@@ -1,68 +1,26 @@
 RESULTS
 =======
-Node: 🇫🇮 Finland [*CIDR] VK
-DL: 289.8 | UL: 298.6
+Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
+DL: 302.4 | UL: 313.7
 ---
-Node: 🇨🇭 Switzerland [*CIDR] YA
-DL: 289.2 | UL: 310.4
+Node: 🇪🇪 Estonia [SNI-RU] stats.vk-portal.net
+DL: 299.5 | UL: 172.8
 ---
-Node: 🇫🇮 Finland [*CIDR] VK
-DL: 286.7 | UL: 293.6
+Node: 🇭🇺 Hungary [*CIDR] VK
+DL: 236.1 | UL: 300.3
 ---
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 263.4 | UL: 142.6
+Node: 🇭🇺 Hungary [*CIDR] VK
+DL: 219.6 | UL: 236.6
 ---
-Node: 🇨🇭 Switzerland [*CIDR] VK
-DL: 256.5 | UL: 308.7
----
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 256.1 | UL: 176.2
----
-Node: 🇫🇮 Finland [*CIDR] VK
-DL: 246.8 | UL: 233.2
----
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 241.8 | UL: 276.8
+Node: 🇭🇺 Hungary [*CIDR] VK
+DL: 192.9 | UL: 297.0
 ---
 Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 240.8 | UL: 305.3
+DL: 147.2 | UL: 305.3
 ---
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 239.7 | UL: 285.2
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 238.2 | UL: 303.7
+Node: 🇩🇪 Germany, Frankfurt am Main [BL]
+DL: 88.3 | UL: 302.0
 ---
 Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 230.9 | UL: 307.0
----
-Node: 🇨🇭 Switzerland, Zurich [BL]
-DL: 224.4 | UL: 307.0
----
-Node: 🇨🇭 Switzerland, Zurich [BL]
-DL: 210.6 | UL: 305.3
----
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 191.1 | UL: 305.3
----
-Node: 🇵🇱 Poland, Warsaw [BL]
-DL: 160.2 | UL: 80.5
----
-Node: 🇫🇮 Finland [*CIDR] VK
-DL: 156.4 | UL: 300.3
----
-Node: 🇦🇹 Austria [*CIDR] YA
-DL: 144.7 | UL: 97.3
----
-Node: 🇳🇱 The Netherlands, Amsterdam (Amsterdam-Zuidoost) [BL]
-DL: 137.2 | UL: 295.3
----
-Node: 🇪🇪 Estonia [*CIDR]
-DL: 132.7 | UL: 127.5
----
-Node: 🇪🇪 Estonia [*CIDR]
-DL: 130.9 | UL: 162.7
----
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 117.2 | UL: 305.3
+DL: 87.9 | UL: 297.0
 ---
