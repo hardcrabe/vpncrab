@@ -1,26 +1,101 @@
 RESULTS
 =======
 Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
-DL: 302.4 | UL: 313.7
+DL: 302.2 | UL: 308.7
 ---
-Node: 🇪🇪 Estonia [SNI-RU] stats.vk-portal.net
-DL: 299.5 | UL: 172.8
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 301.8 | UL: 315.4
 ---
-Node: 🇭🇺 Hungary [*CIDR] VK
-DL: 236.1 | UL: 300.3
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 301.4 | UL: 315.4
 ---
-Node: 🇭🇺 Hungary [*CIDR] VK
-DL: 219.6 | UL: 236.6
+Node: 🇪🇪 Estonia, Narva [BL]
+DL: 300.9 | UL: 142.6
 ---
-Node: 🇭🇺 Hungary [*CIDR] VK
-DL: 192.9 | UL: 297.0
+Node: 🇫🇮 Finland [SNI-RU] stats.vk-portal.net
+DL: 297.6 | UL: 174.5
 ---
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 147.2 | UL: 305.3
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 294.0 | UL: 268.4
 ---
-Node: 🇩🇪 Germany, Frankfurt am Main [BL]
-DL: 88.3 | UL: 302.0
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 288.6 | UL: 318.8
 ---
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 87.9 | UL: 297.0
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 288.4 | UL: 313.7
+---
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 288.1 | UL: 317.1
+---
+Node: 🇦🇹 Austria, Vienna [BL]
+DL: 282.5 | UL: 308.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 282.1 | UL: 291.9
+---
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 279.1 | UL: 313.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 278.9 | UL: 278.5
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 278.7 | UL: 308.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 276.8 | UL: 302.0
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 275.6 | UL: 310.4
+---
+Node: 🇦🇹 Austria, Vienna [BL]
+DL: 270.5 | UL: 310.4
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 248.7 | UL: 302.0
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 233.6 | UL: 300.3
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 229.4 | UL: 310.4
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 221.7 | UL: 300.3
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 211.2 | UL: 298.6
+---
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 206.2 | UL: 305.3
+---
+Node: 🇳🇴 Norway, Hamar [BL]
+DL: 184.8 | UL: 313.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 181.6 | UL: 211.4
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 172.8 | UL: 308.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 172.2 | UL: 186.2
+---
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 166.9 | UL: 302.0
+---
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 163.4 | UL: 95.6
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 150.2 | UL: 119.1
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 149.3 | UL: 312.1
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 129.2 | UL: 135.9
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 123.9 | UL: 293.6
 ---
