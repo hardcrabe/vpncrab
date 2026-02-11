@@ -1,80 +1,53 @@
 RESULTS
 =======
-Node: 🇱🇹 Lithuania, Šiauliai [BL]
-DL: 303.7 | UL: 317.1
+Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
+DL: 302.0 | UL: 307.0
 ---
-Node: 🇩🇪 Germany, Nuremberg [BL]
-DL: 295.7 | UL: 307.0
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 271.2 | UL: 302.0
----
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 269.9 | UL: 290.2
----
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 258.2 | UL: 285.2
----
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 256.1 | UL: 298.6
----
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 250.6 | UL: 286.9
----
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 249.6 | UL: 196.3
----
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 247.7 | UL: 297.0
----
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 245.2 | UL: 297.0
+Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
+DL: 294.6 | UL: 308.7
 ---
 Node: 🇵🇱 Poland [*CIDR] VK
-DL: 233.4 | UL: 82.2
+DL: 253.8 | UL: 140.9
 ---
-Node: 🇳🇱 The Netherlands, Alkmaar [BL]
-DL: 227.8 | UL: 307.0
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 248.1 | UL: 224.8
 ---
-Node: 🇭🇺 Hungary [*CIDR] VK
-DL: 187.5 | UL: 298.6
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 240.3 | UL: 231.5
 ---
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 186.0 | UL: 300.3
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 217.1 | UL: 295.3
 ---
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 185.4 | UL: 303.7
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 211.6 | UL: 265.1
 ---
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 176.8 | UL: 300.3
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 211.4 | UL: 286.9
 ---
-Node: 🇭🇺 Hungary [*CIDR] VK
-DL: 161.5 | UL: 303.7
+Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
+DL: 211.4 | UL: 313.7
 ---
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 158.5 | UL: 293.6
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 198.4 | UL: 295.3
 ---
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 157.5 | UL: 303.7
+Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
+DL: 189.0 | UL: 307.0
 ---
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 156.0 | UL: 305.3
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 187.3 | UL: 275.1
 ---
-Node: 🇩🇪 Germany [*CIDR] YA
-DL: 153.3 | UL: 181.2
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 170.1 | UL: 298.6
 ---
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 145.3 | UL: 297.0
+Node: 🇵🇱 Poland [*CIDR]
+DL: 162.5 | UL: 298.6
 ---
-Node: 🇭🇺 Hungary [*CIDR] VK
-DL: 135.3 | UL: 270.1
+Node: 🇵🇱 Poland [*CIDR]
+DL: 149.9 | UL: 302.0
 ---
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 131.7 | UL: 271.8
+Node: 🇵🇱 Poland [*CIDR]
+DL: 140.5 | UL: 302.0
 ---
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 122.1 | UL: 303.7
----
-Node: 🇩🇪 Germany [*CIDR] YA
-DL: 117.2 | UL: 253.3
+Node: 🇵🇱 Poland [*CIDR]
+DL: 134.4 | UL: 303.7
 ---
