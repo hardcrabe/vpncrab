@@ -1,53 +1,107 @@
 RESULTS
 =======
-Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
-DL: 302.0 | UL: 307.0
+Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) [BL]
+DL: 309.7 | UL: 320.4
 ---
-Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
-DL: 294.6 | UL: 308.7
+Node: 🇱🇻 Latvia [SNI-RU] m.vk.ru
+DL: 304.9 | UL: 315.4
 ---
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 253.8 | UL: 140.9
+Node: 🇸🇪 Sweden, Spånga [BL]
+DL: 303.9 | UL: 302.0
 ---
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 248.1 | UL: 224.8
+Node: 🇫🇮 Finland [SNI-RU] m.ok.ru
+DL: 302.2 | UL: 315.4
 ---
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 240.3 | UL: 231.5
+Node: 🇫🇮 Finland, Helsinki [BL]
+DL: 298.8 | UL: 312.1
 ---
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 217.1 | UL: 295.3
+Node: 🇸🇪 Sweden [SNI-RU] eh.vk.com
+DL: 293.2 | UL: 313.7
 ---
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 211.6 | UL: 265.1
+Node: 🇸🇪 Sweden [SNI-RU] eh.vk.com
+DL: 287.3 | UL: 313.7
 ---
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 211.4 | UL: 286.9
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 278.5 | UL: 303.7
 ---
-Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
-DL: 211.4 | UL: 313.7
+Node: 🇩🇪 Germany, Frankfurt am Main [BL]
+DL: 273.0 | UL: 305.3
 ---
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 198.4 | UL: 295.3
----
-Node: 🇱🇹 Lithuania [SNI-RU] sun6-22.userapi.com
-DL: 189.0 | UL: 307.0
+Node: 🇳🇱 The Netherlands, Halfweg [BL]
+DL: 255.6 | UL: 298.6
 ---
 Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 187.3 | UL: 275.1
+DL: 252.9 | UL: 300.3
 ---
 Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 170.1 | UL: 298.6
+DL: 242.2 | UL: 300.3
+---
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 241.8 | UL: 305.3
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 229.0 | UL: 182.9
+---
+Node: 🇩🇪 Germany, Frankfurt am Main [BL]
+DL: 227.8 | UL: 307.0
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 212.4 | UL: 218.1
+---
+Node: 🇱🇻 Latvia [SNI-RU] m.vk.ru
+DL: 201.5 | UL: 219.8
+---
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 197.8 | UL: 302.0
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 187.5 | UL: 310.4
+---
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 176.0 | UL: 303.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 172.0 | UL: 297.0
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 161.5 | UL: 308.7
 ---
 Node: 🇵🇱 Poland [*CIDR]
-DL: 162.5 | UL: 298.6
+DL: 159.2 | UL: 297.0
 ---
 Node: 🇵🇱 Poland [*CIDR]
-DL: 149.9 | UL: 302.0
+DL: 149.7 | UL: 303.7
 ---
 Node: 🇵🇱 Poland [*CIDR]
-DL: 140.5 | UL: 302.0
+DL: 147.2 | UL: 290.2
+---
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 143.9 | UL: 82.2
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 143.7 | UL: 290.2
+---
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 141.1 | UL: 290.2
 ---
 Node: 🇵🇱 Poland [*CIDR]
-DL: 134.4 | UL: 303.7
+DL: 135.3 | UL: 307.0
+---
+Node: 🇵🇱 Poland [*CIDR]
+DL: 133.6 | UL: 308.7
+---
+Node: 🇵🇱 Poland [*CIDR]
+DL: 128.3 | UL: 305.3
+---
+Node: 🇱🇻 Latvia, Riga [BL]
+DL: 115.8 | UL: 181.2
+---
+Node: 🇳🇱 The Netherlands, Amsterdam [BL]
+DL: 115.3 | UL: 303.7
+---
+Node: 🇩🇪 Germany, Frankfurt am Main [BL]
+DL: 112.6 | UL: 308.7
+---
+Node: 🇵🇱 Poland [*CIDR]
+DL: 112.6 | UL: 303.7
 ---
