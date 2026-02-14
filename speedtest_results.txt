@@ -1,107 +1,119 @@
 RESULTS
 =======
+Node: 🇱🇻 Latvia | 🌐 Anycast-IP | [A] [SNI-RU] queuev4.vk.com
+DL: 301.6 | UL: 317.1
+---
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 301.2 | UL: 318.8
+---
+Node: 🇱🇻 Latvia | 🌐 Anycast-IP | [A] [SNI-RU] queuev4.vk.com
+DL: 300.5 | UL: 320.4
+---
+Node: 🇱🇻 Latvia | 🌐 Anycast-IP | [A] [SNI-RU] queuev4.vk.com
+DL: 300.3 | UL: 320.4
+---
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 300.3 | UL: 315.4
+---
+Node: 🇱🇻 Latvia [SNI-RU] queuev4.vk.com
+DL: 299.9 | UL: 320.4
+---
+Node: 🇱🇻 Latvia [SNI-RU] queuev4.vk.com
+DL: 299.9 | UL: 317.1
+---
+Node: 🇱🇻 Latvia [SNI-RU] queuev4.vk.com
+DL: 299.7 | UL: 318.8
+---
+Node: 🇱🇻 Latvia | 🌐 Anycast-IP | [E] [SNI-RU] queuev4.vk.com
+DL: 299.7 | UL: 315.4
+---
+Node: 🇱🇻 Latvia [SNI-RU] queuev4.vk.com
+DL: 297.6 | UL: 315.4
+---
+Node: 🇩🇪 Germany, Frankfurt am Main [BL]
+DL: 296.3 | UL: 305.3
+---
+Node: 🇵🇱 Poland | 🌐 Anycast-IP | [BL]
+DL: 280.4 | UL: 276.8
+---
+Node: 🇱🇻 Latvia | 🌐 Anycast-IP | [E] [SNI-RU] queuev4.vk.com
+DL: 276.0 | UL: 270.1
+---
+Node: 🇱🇻 Latvia, Riga | 🌐 Anycast-IP | [BL]
+DL: 274.5 | UL: 317.1
+---
+Node: 🇵🇱 Poland | 🌐 Anycast-IP | [BL]
+DL: 274.3 | UL: 310.4
+---
 Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) [BL]
-DL: 309.7 | UL: 320.4
+DL: 259.2 | UL: 308.7
 ---
-Node: 🇱🇻 Latvia [SNI-RU] m.vk.ru
-DL: 304.9 | UL: 315.4
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 249.1 | UL: 312.1
 ---
-Node: 🇸🇪 Sweden, Spånga [BL]
-DL: 303.9 | UL: 302.0
+Node: 🇩🇪 Germany, Frankfurt am Main [BL]
+DL: 225.0 | UL: 302.0
 ---
-Node: 🇫🇮 Finland [SNI-RU] m.ok.ru
-DL: 302.2 | UL: 315.4
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 212.4 | UL: 221.5
+---
+Node: 🇱🇻 Latvia, Riga | 🌐 Anycast-IP | [BL]
+DL: 210.1 | UL: 303.7
+---
+Node: 🇸🇪 Sweden, Spånga | 🌐 Anycast-IP | [BL]
+DL: 202.8 | UL: 203.0
+---
+Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) [BL]
+DL: 198.2 | UL: 317.1
+---
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 195.9 | UL: 214.7
+---
+Node: 🇱🇹 Lithuania, Šiauliai [BL]
+DL: 194.6 | UL: 278.5
+---
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 193.4 | UL: 221.5
+---
+Node: 🇸🇪 Sweden, Spånga | 🌐 Anycast-IP | [BL]
+DL: 186.6 | UL: 308.7
+---
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 178.9 | UL: 226.5
+---
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 177.8 | UL: 208.0
+---
+Node: 🇩🇪 Germany, Frankfurt am Main | 🌐 Anycast-IP | [BL]
+DL: 164.0 | UL: 305.3
+---
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 149.7 | UL: 140.9
+---
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 139.7 | UL: 169.4
+---
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 136.5 | UL: 125.8
 ---
 Node: 🇫🇮 Finland, Helsinki [BL]
-DL: 298.8 | UL: 312.1
+DL: 135.3 | UL: 83.9
 ---
-Node: 🇸🇪 Sweden [SNI-RU] eh.vk.com
-DL: 293.2 | UL: 313.7
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 133.4 | UL: 179.5
 ---
-Node: 🇸🇪 Sweden [SNI-RU] eh.vk.com
-DL: 287.3 | UL: 313.7
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 112.6 | UL: 142.6
 ---
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 278.5 | UL: 303.7
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 103.6 | UL: 186.2
 ---
-Node: 🇩🇪 Germany, Frankfurt am Main [BL]
-DL: 273.0 | UL: 305.3
+Node: 🇵🇱 Poland | 🌐 Anycast-IP | [BL]
+DL: 92.7 | UL: 95.6
 ---
-Node: 🇳🇱 The Netherlands, Halfweg [BL]
-DL: 255.6 | UL: 298.6
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 88.5 | UL: 149.3
 ---
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 252.9 | UL: 300.3
----
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 242.2 | UL: 300.3
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 241.8 | UL: 305.3
----
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 229.0 | UL: 182.9
----
-Node: 🇩🇪 Germany, Frankfurt am Main [BL]
-DL: 227.8 | UL: 307.0
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 212.4 | UL: 218.1
----
-Node: 🇱🇻 Latvia [SNI-RU] m.vk.ru
-DL: 201.5 | UL: 219.8
----
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 197.8 | UL: 302.0
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 187.5 | UL: 310.4
----
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 176.0 | UL: 303.7
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 172.0 | UL: 297.0
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 161.5 | UL: 308.7
----
-Node: 🇵🇱 Poland [*CIDR]
-DL: 159.2 | UL: 297.0
----
-Node: 🇵🇱 Poland [*CIDR]
-DL: 149.7 | UL: 303.7
----
-Node: 🇵🇱 Poland [*CIDR]
-DL: 147.2 | UL: 290.2
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 143.9 | UL: 82.2
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 143.7 | UL: 290.2
----
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 141.1 | UL: 290.2
----
-Node: 🇵🇱 Poland [*CIDR]
-DL: 135.3 | UL: 307.0
----
-Node: 🇵🇱 Poland [*CIDR]
-DL: 133.6 | UL: 308.7
----
-Node: 🇵🇱 Poland [*CIDR]
-DL: 128.3 | UL: 305.3
----
-Node: 🇱🇻 Latvia, Riga [BL]
-DL: 115.8 | UL: 181.2
----
-Node: 🇳🇱 The Netherlands, Amsterdam [BL]
-DL: 115.3 | UL: 303.7
----
-Node: 🇩🇪 Germany, Frankfurt am Main [BL]
-DL: 112.6 | UL: 308.7
----
-Node: 🇵🇱 Poland [*CIDR]
-DL: 112.6 | UL: 303.7
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 83.3 | UL: 99.0
 ---
