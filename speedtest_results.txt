@@ -1,11 +1,11 @@
 RESULTS
 =======
-Node: 🇳🇱 The Netherlands [SNI-RU] rbc.ru
-DL: 298.4 | UL: 310.4
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 287.3 | UL: 94.0
 ---
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 171.8 | UL: 162.7
+Node: 🇩🇪 Germany | 🌐 [*CIDR] YA
+DL: 143.0 | UL: 307.0
 ---
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 154.6 | UL: 199.6
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 108.4 | UL: 307.0
 ---
