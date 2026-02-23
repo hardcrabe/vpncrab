@@ -1,140 +1,38 @@
 RESULTS
 =======
-Node: 🇩🇪 Germany | 🌐 [*CIDR] YA
-DL: 244.9 | UL: 313.7
----
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] YA
-DL: 238.9 | UL: 315.4
----
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 237.2 | UL: 260.0
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 227.1 | UL: 315.4
----
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] VK
-DL: 226.7 | UL: 308.7
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 225.4 | UL: 317.1
----
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] VK
-DL: 219.6 | UL: 308.7
----
-Node: 🇩🇪 Germany | 🌐 [*CIDR] YA
-DL: 216.4 | UL: 313.7
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 213.3 | UL: 312.1
----
-Node: 🇩🇪 Germany | 🌐 [*CIDR] YA
-DL: 210.3 | UL: 317.1
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 208.9 | UL: 317.1
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
+DL: 226.9 | UL: 303.7
 ---
 Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 205.5 | UL: 310.4
+DL: 219.6 | UL: 313.7
 ---
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] YA
-DL: 203.4 | UL: 315.4
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
+DL: 219.2 | UL: 310.4
 ---
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 200.7 | UL: 115.8
----
-Node: 🇳🇱 The Netherlands [*CIDR] YA
-DL: 200.7 | UL: 198.0
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
+DL: 216.0 | UL: 312.1
 ---
 Node: 🇩🇪 Germany | 🌐 [SNI-RU] yandex.ru
-DL: 200.5 | UL: 315.4
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 199.0 | UL: 312.1
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 196.7 | UL: 317.1
----
-Node: 🇳🇱 The Netherlands [*CIDR] YA
-DL: 192.7 | UL: 181.2
----
-Node: 🇩🇪 Germany | 🌐 [*CIDR] YA
-DL: 189.0 | UL: 313.7
----
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] VK
-DL: 186.6 | UL: 182.9
----
-Node: 🌐 Anycast-IP | [IPv6] [*CIDR] YA
-DL: 183.9 | UL: 305.3
----
-Node: 🇩🇪 Germany | 🌐 [*CIDR] YA
-DL: 182.9 | UL: 312.1
----
-Node: 🌐 Anycast-IP | [IPv6] [*CIDR] YA
-DL: 179.3 | UL: 313.7
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 178.7 | UL: 307.0
----
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 178.3 | UL: 317.1
----
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] VK
-DL: 177.4 | UL: 224.8
----
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 177.2 | UL: 313.7
----
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] VK
-DL: 175.5 | UL: 310.4
----
-Node: 🌐 Anycast-IP | [IPv6] [*CIDR] YA
-DL: 171.5 | UL: 303.7
----
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] VK
-DL: 170.9 | UL: 307.0
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 170.3 | UL: 312.1
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 168.2 | UL: 313.7
----
-Node: 🌐 Anycast-IP | [IPv6] [*CIDR] YA
-DL: 165.9 | UL: 313.7
+DL: 200.9 | UL: 313.7
 ---
 Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
-DL: 164.6 | UL: 152.7
+DL: 185.8 | UL: 268.4
 ---
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] YA
-DL: 161.9 | UL: 317.1
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
+DL: 183.7 | UL: 308.7
 ---
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] YA
-DL: 160.4 | UL: 310.4
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
+DL: 177.4 | UL: 307.0
 ---
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 153.9 | UL: 144.3
+Node: 🇩🇪 Germany | 🌐 [SNI-RU] yandex.ru
+DL: 172.2 | UL: 302.0
 ---
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 150.4 | UL: 293.6
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 132.3 | UL: 177.8
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 124.4 | UL: 305.3
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 123.7 | UL: 95.6
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 117.0 | UL: 285.2
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 114.1 | UL: 176.2
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 95.2 | UL: 82.2
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
+DL: 149.9 | UL: 312.1
 ---
 Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 91.0 | UL: 300.3
+DL: 121.6 | UL: 216.4
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 103.2 | UL: 199.6
 ---
