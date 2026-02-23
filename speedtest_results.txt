@@ -1,11 +1,5 @@
 RESULTS
 =======
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 287.3 | UL: 94.0
----
-Node: 🇩🇪 Germany | 🌐 [*CIDR] YA
-DL: 143.0 | UL: 307.0
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 108.4 | UL: 307.0
+Node: 1278 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+DL: 112.2 | UL: 181.2
 ---
