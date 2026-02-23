@@ -1,38 +1,11 @@
 RESULTS
 =======
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 226.9 | UL: 303.7
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 219.6 | UL: 313.7
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 219.2 | UL: 310.4
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 216.0 | UL: 312.1
----
-Node: 🇩🇪 Germany | 🌐 [SNI-RU] yandex.ru
-DL: 200.9 | UL: 313.7
----
-Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
-DL: 185.8 | UL: 268.4
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 183.7 | UL: 308.7
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 177.4 | UL: 307.0
----
-Node: 🇩🇪 Germany | 🌐 [SNI-RU] yandex.ru
-DL: 172.2 | UL: 302.0
----
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [SNI-RU] yandex.ru
-DL: 149.9 | UL: 312.1
+Node: 🇳🇱 The Netherlands [SNI-RU] rbc.ru
+DL: 298.4 | UL: 310.4
 ---
 Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 121.6 | UL: 216.4
+DL: 171.8 | UL: 162.7
 ---
-Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 103.2 | UL: 199.6
+Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
+DL: 154.6 | UL: 199.6
 ---
