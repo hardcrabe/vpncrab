@@ -1,5 +1,65 @@
 RESULTS
 =======
+Node: 🇱🇻 Latvia, Riga | [BL]
+DL: 307.2 | UL: 307.0
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 297.0 | UL: 307.0
+---
+Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] YA
+DL: 295.5 | UL: 310.4
+---
+Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] YA
+DL: 292.6 | UL: 312.1
+---
+Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] YA
+DL: 289.8 | UL: 310.4
+---
+Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] YA
+DL: 286.1 | UL: 308.7
+---
+Node: 🇳🇱 The Netherlands [SNI-RU] rbc.ru
+DL: 269.3 | UL: 231.5
+---
 Node: 🇳🇱 The Netherlands, Dedemsvaart | [BL]
-DL: 169.0 | UL: 302.0
+DL: 265.1 | UL: 286.9
+---
+Node: 🇳🇱 The Netherlands, Dedemsvaart | [BL]
+DL: 233.8 | UL: 308.7
+---
+Node: 🌐 Anycast-IP [*CIDR] YA
+DL: 230.3 | UL: 298.6
+---
+Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) | [BL]
+DL: 228.8 | UL: 315.4
+---
+Node: 🇳🇱 The Netherlands, Dedemsvaart | [BL]
+DL: 212.0 | UL: 310.4
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR]
+DL: 189.0 | UL: 297.0
+---
+Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) | [BL]
+DL: 183.5 | UL: 307.0
+---
+Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) | [BL]
+DL: 170.5 | UL: 305.3
+---
+Node: 🌐 Anycast-IP [*CIDR] YA
+DL: 169.9 | UL: 307.0
+---
+Node: 🌐 Anycast-IP [*CIDR] YA
+DL: 157.7 | UL: 298.6
+---
+Node: 🇳🇱 The Netherlands, Amsterdam | [BL]
+DL: 134.6 | UL: 169.4
+---
+Node: 🇸🇪 Sweden [*CIDR] VK
+DL: 124.4 | UL: 312.1
+---
+Node: 🇳🇱 The Netherlands [SNI-RU] rbc.ru
+DL: 103.0 | UL: 291.9
+---
+Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
+DL: 94.0 | UL: 127.5
 ---
