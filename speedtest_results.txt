@@ -1,47 +1,5 @@
 RESULTS
 =======
-Node: 🇳🇱 The Netherlands [SNI-RU] rbc.ru
-DL: 297.2 | UL: 312.1
----
-Node: 🇳🇱 The Netherlands [SNI-RU] rbc.ru
-DL: 296.5 | UL: 312.1
----
-Node: 🇪🇪 Estonia, Narva | 🌐 | [BL]
-DL: 294.2 | UL: 315.4
----
-Node: 🇪🇪 Estonia, Narva | 🌐 | [BL]
-DL: 290.7 | UL: 318.8
----
-Node: 🇪🇪 Estonia, Narva | 🌐 | [BL]
-DL: 272.6 | UL: 317.1
----
-Node: 🇳🇱 The Netherlands, Amsterdam | [BL]
-DL: 258.0 | UL: 302.0
----
-Node: 🌐 Anycast-IP [*CIDR] YA
-DL: 251.7 | UL: 290.2
----
-Node: 🇵🇱 Poland [*CIDR] YA
-DL: 245.4 | UL: 298.6
----
-Node: 🇩🇪 Germany, Nuremberg | [BL]
-DL: 201.1 | UL: 308.7
----
-Node: 🇵🇱 Poland | 🌐 | [IPv4+6] [*CIDR]
-DL: 196.1 | UL: 312.1
----
-Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) | [BL]
-DL: 195.2 | UL: 310.4
----
-Node: 🇩🇪 Germany, Berlin | [BL]
-DL: 176.0 | UL: 307.0
----
-Node: 🇩🇪 Germany, Berlin | [BL]
-DL: 149.3 | UL: 310.4
----
-Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) | [BL]
-DL: 143.2 | UL: 318.8
----
-Node: 🇮🇹 Italy [*CIDR] YA
-DL: 116.8 | UL: 276.8
+Node: 🇳🇱 The Netherlands, Dedemsvaart | [BL]
+DL: 169.0 | UL: 302.0
 ---
