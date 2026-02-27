@@ -1,65 +1,134 @@
 RESULTS
 =======
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 307.2 | UL: 307.0
+Node: 🇸🇪 Sweden [*CIDR] VK
+DL: 305.1 | UL: 317.1
 ---
-Node: 🇳🇱 The Netherlands [*CIDR] YA
-DL: 297.0 | UL: 307.0
+Node: 🇵🇱 Poland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 303.5 | UL: 318.8
 ---
-Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] YA
-DL: 295.5 | UL: 310.4
+Node: 🇵🇱 Poland [*CIDR] VK
+DL: 299.1 | UL: 317.1
 ---
-Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] YA
-DL: 292.6 | UL: 312.1
+Node: 🇪🇪 Estonia [*CIDR] VK
+DL: 296.3 | UL: 318.8
 ---
-Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] YA
-DL: 289.8 | UL: 310.4
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 289.4 | UL: 293.6
 ---
-Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] YA
-DL: 286.1 | UL: 308.7
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 288.8 | UL: 278.5
 ---
-Node: 🇳🇱 The Netherlands [SNI-RU] rbc.ru
-DL: 269.3 | UL: 231.5
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 288.4 | UL: 300.3
 ---
-Node: 🇳🇱 The Netherlands, Dedemsvaart | [BL]
-DL: 265.1 | UL: 286.9
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 287.9 | UL: 256.7
 ---
-Node: 🇳🇱 The Netherlands, Dedemsvaart | [BL]
-DL: 233.8 | UL: 308.7
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 287.9 | UL: 283.5
 ---
-Node: 🌐 Anycast-IP [*CIDR] YA
-DL: 230.3 | UL: 298.6
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 287.9 | UL: 283.5
 ---
-Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) | [BL]
-DL: 228.8 | UL: 315.4
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 287.7 | UL: 298.6
 ---
-Node: 🇳🇱 The Netherlands, Dedemsvaart | [BL]
-DL: 212.0 | UL: 310.4
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 287.5 | UL: 221.5
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 286.5 | UL: 261.7
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 286.3 | UL: 300.3
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 285.8 | UL: 300.3
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 283.5 | UL: 276.8
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 260.3 | UL: 184.5
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 242.4 | UL: 312.1
+---
+Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
+DL: 241.2 | UL: 307.0
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR] VK
+DL: 226.3 | UL: 310.4
+---
+Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
+DL: 221.9 | UL: 307.0
+---
+Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] VK
+DL: 217.9 | UL: 94.0
+---
+Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] YA
+DL: 214.5 | UL: 248.3
+---
+Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] YA
+DL: 196.3 | UL: 100.7
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 188.7 | UL: 310.4
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 185.0 | UL: 286.9
 ---
 Node: 🇩🇪 Germany | 🌐 | [IPv4+6] [*CIDR]
-DL: 189.0 | UL: 297.0
+DL: 185.0 | UL: 308.7
 ---
-Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) | [BL]
-DL: 183.5 | UL: 307.0
+Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
+DL: 181.8 | UL: 308.7
 ---
-Node: 🇱🇻 Latvia, Riga (Latgales priekšpilsēta) | [BL]
-DL: 170.5 | UL: 305.3
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 171.1 | UL: 310.4
 ---
-Node: 🌐 Anycast-IP [*CIDR] YA
-DL: 169.9 | UL: 307.0
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 168.0 | UL: 310.4
 ---
-Node: 🌐 Anycast-IP [*CIDR] YA
-DL: 157.7 | UL: 298.6
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 166.7 | UL: 302.0
 ---
-Node: 🇳🇱 The Netherlands, Amsterdam | [BL]
-DL: 134.6 | UL: 169.4
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 164.6 | UL: 271.8
 ---
-Node: 🇸🇪 Sweden [*CIDR] VK
-DL: 124.4 | UL: 312.1
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 162.7 | UL: 310.4
 ---
-Node: 🇳🇱 The Netherlands [SNI-RU] rbc.ru
-DL: 103.0 | UL: 291.9
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 161.7 | UL: 308.7
 ---
-Node: 🇫🇮 Finland [SNI-RU] queuev4.vk.com
-DL: 94.0 | UL: 127.5
+Node: 🇫🇮 Finland [*CIDR] VK
+DL: 161.3 | UL: 147.6
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 157.1 | UL: 288.6
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 157.1 | UL: 307.0
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 156.4 | UL: 308.7
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 155.0 | UL: 305.3
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 154.8 | UL: 308.7
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 154.4 | UL: 305.3
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 153.9 | UL: 305.3
+---
+Node: 🇵🇱 Poland [*CIDR] YA
+DL: 153.7 | UL: 228.2
+---
+Node: 🇩🇪 Germany [*CIDR] YA
+DL: 91.6 | UL: 244.9
 ---
