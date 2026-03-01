@@ -1,74 +1,23 @@
 RESULTS
 =======
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 286.9 | UL: 261.7
+Node: 🇳🇱 The Netherlands [SNI-RU] eh.vk.com
+DL: 297.2 | UL: 312.1
 ---
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 286.1 | UL: 151.0
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 284.0 | UL: 286.9
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 283.3 | UL: 125.8
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 282.5 | UL: 244.9
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 279.3 | UL: 270.1
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 279.1 | UL: 130.9
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 278.7 | UL: 88.9
+Node: 🇳🇱 The Netherlands [SNI-RU] eh.vk.com
+DL: 288.4 | UL: 310.4
 ---
 Node: 🇵🇱 Poland [*CIDR]
-DL: 276.8 | UL: 182.9
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 275.4 | UL: 179.5
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 275.4 | UL: 281.9
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 275.4 | UL: 238.2
----
-Node: 🇵🇱 Poland [*CIDR]
-DL: 273.0 | UL: 297.0
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 268.6 | UL: 105.7
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 264.0 | UL: 255.0
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 264.0 | UL: 90.6
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 263.6 | UL: 146.0
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 252.9 | UL: 213.1
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 252.1 | UL: 182.9
+DL: 280.4 | UL: 265.1
 ---
 Node: 🇳🇱 The Netherlands, Dedemsvaart | [BL]
-DL: 250.0 | UL: 308.7
+DL: 205.3 | UL: 201.3
 ---
-Node: 🇬🇧 United Kingdom, Slough | [BL]
-DL: 230.7 | UL: 305.3
+Node: 🌐 Anycast-IP [*CIDR] YA
+DL: 167.4 | UL: 256.7
 ---
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 182.2 | UL: 94.0
+Node: 🇳🇱 The Netherlands, Dedemsvaart | [BL]
+DL: 149.1 | UL: 302.0
 ---
-Node: 🌐 Anycast-IP | [IPv4+6] [*CIDR] YA
-DL: 131.9 | UL: 154.4
----
-Node: 🇫🇮 Finland | 🌐 | [IPv4+6] [*CIDR] VK
-DL: 102.1 | UL: 142.6
+Node: 🇳🇱 The Netherlands, Amsterdam | [BL]
+DL: 128.8 | UL: 124.2
 ---
