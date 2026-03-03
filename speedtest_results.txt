@@ -1,11 +1,104 @@
 RESULTS
 =======
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 295.3 | UL: 307.0
+Node: 🇸🇪 Sweden [*CIDR] VK
+DL: 308.5 | UL: 322.1
 ---
-Node: 🇩🇪 Germany, Frankfurt am Main | [BL]
-DL: 267.0 | UL: 310.4
+Node: 🇪🇪 Estonia | 🌐 [*CIDR] VK
+DL: 305.8 | UL: 323.8
+---
+Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
+DL: 304.5 | UL: 320.4
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 304.5 | UL: 256.7
+---
+Node: 🌐 Anycast-IP [*CIDR] VK
+DL: 303.2 | UL: 320.4
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 302.8 | UL: 300.3
+---
+Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
+DL: 301.8 | UL: 320.4
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 289.4 | UL: 286.9
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 287.9 | UL: 293.6
+---
+Node: 🌐 Anycast-IP [*CIDR] VK
+DL: 287.9 | UL: 310.4
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 287.3 | UL: 186.2
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 287.1 | UL: 280.2
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 286.7 | UL: 298.6
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 286.3 | UL: 310.4
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 283.1 | UL: 258.4
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 282.5 | UL: 308.7
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 279.8 | UL: 273.5
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 276.2 | UL: 276.8
+---
+Node: 🌐 Anycast-IP [*CIDR] VK
+DL: 275.1 | UL: 297.0
+---
+Node: 🇪🇪 Estonia | 🌐 [*CIDR] VK
+DL: 252.3 | UL: 80.5
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 235.1 | UL: 308.7
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 231.7 | UL: 310.4
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 228.2 | UL: 307.0
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 222.7 | UL: 298.6
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 220.8 | UL: 310.4
 ---
 Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 192.9 | UL: 307.0
+DL: 207.4 | UL: 308.7
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 203.6 | UL: 310.4
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 202.0 | UL: 312.1
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 198.8 | UL: 312.1
+---
+Node: 🌐 Anycast-IP [*CIDR] VK
+DL: 192.7 | UL: 305.3
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 189.2 | UL: 307.0
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 163.4 | UL: 310.4
+---
+Node: 🇳🇱 The Netherlands [*CIDR] YA
+DL: 143.7 | UL: 313.7
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 110.5 | UL: 308.7
 ---
