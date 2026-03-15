@@ -1,44 +1,35 @@
 RESULTS
 =======
-Node: 🇳🇱 The Netherlands | 🌐 | [IPv6] [*CIDR]
-DL: 294.9 | UL: 307.0
+Node: 🇱🇹 Lithuania [*CIDR]
+DL: 303.0 | UL: 320.4
 ---
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 287.9 | UL: 164.4
+Node: 🇱🇹 Lithuania [*CIDR]
+DL: 302.8 | UL: 317.1
 ---
-Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
-DL: 281.4 | UL: 231.5
+Node: 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL]
+DL: 299.7 | UL: 317.1
+---
+Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
+DL: 290.5 | UL: 308.7
 ---
 Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
-DL: 281.2 | UL: 204.7
+DL: 289.8 | UL: 288.6
 ---
-Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] VK
-DL: 266.8 | UL: 229.8
+Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
+DL: 285.4 | UL: 290.2
 ---
-Node: 🇩🇪 Germany, Frankfurt am Main | [BL]
-DL: 260.7 | UL: 305.3
+Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
+DL: 285.2 | UL: 285.2
 ---
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 260.5 | UL: 114.1
+Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
+DL: 278.1 | UL: 297.0
 ---
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 235.1 | UL: 206.4
+Node: 🇳🇱 The Netherlands | 🌐 | [IPv6] [*CIDR] YA
+DL: 193.1 | UL: 281.9
 ---
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 218.3 | UL: 199.6
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 133.2 | UL: 213.1
 ---
-Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] VK
-DL: 211.4 | UL: 223.1
----
-Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
-DL: 202.2 | UL: 174.5
----
-Node: 🌐 Anycast-IP | [IPv6] | [BL]
-DL: 200.9 | UL: 302.0
----
-Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] VK
-DL: 117.2 | UL: 298.6
----
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 95.4 | UL: 233.2
+Node: 🌐 Anycast-IP [SNI-RU] rbc.ru
+DL: 115.3 | UL: 189.6
 ---
