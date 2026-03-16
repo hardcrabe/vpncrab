@@ -1,8 +1,5 @@
 RESULTS
 =======
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 282.5 | UL: 307.0
----
 Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
-DL: 138.2 | UL: 154.4
+DL: 177.2 | UL: 90.6
 ---
