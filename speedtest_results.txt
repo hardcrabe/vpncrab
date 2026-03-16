@@ -1,5 +1,2 @@
 RESULTS
 =======
-Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
-DL: 177.2 | UL: 90.6
----
