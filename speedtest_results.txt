@@ -1,35 +1,8 @@
 RESULTS
 =======
-Node: 🇪🇪 Estonia, Tallinn | [BL]
-DL: 295.1 | UL: 317.1
+Node: 🇱🇻 Latvia | 🌐 [*CIDR] VK
+DL: 289.6 | UL: 129.2
 ---
-Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
-DL: 290.5 | UL: 300.3
----
-Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
-DL: 289.6 | UL: 308.7
----
-Node: 🇱🇹 Lithuania, Šiauliai | [BL]
-DL: 289.2 | UL: 317.1
----
-Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
-DL: 288.8 | UL: 307.0
----
-Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
-DL: 285.4 | UL: 297.0
----
-Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
-DL: 284.0 | UL: 80.5
----
-Node: 🇩🇪 Germany | 🌐 [*CIDR] VK
-DL: 282.7 | UL: 223.1
----
-Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
-DL: 280.4 | UL: 278.5
----
-Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
-DL: 277.5 | UL: 302.0
----
-Node: 🇭🇺 Hungary [SNI-RU] rbc.ru
-DL: 119.5 | UL: 303.7
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 82.8 | UL: 87.2
 ---
