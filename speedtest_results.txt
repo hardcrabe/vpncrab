@@ -1,2 +1,5 @@
 RESULTS
 =======
+Node: 65. 🇪🇪 Estonia t.me/rjsxrd
+DL: 220.8 | UL: 285.2
+---
