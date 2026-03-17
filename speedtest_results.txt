@@ -1,5 +1,8 @@
 RESULTS
 =======
-Node: 65. 🇪🇪 Estonia t.me/rjsxrd
-DL: 220.8 | UL: 285.2
+Node: 🇵🇱 Poland [*CIDR]
+DL: 239.3 | UL: 159.4
+---
+Node: 🌐 Anycast-IP | [BL]
+DL: 165.3 | UL: 218.1
 ---
