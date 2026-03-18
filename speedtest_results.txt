@@ -1,2 +1,29 @@
 RESULTS
 =======
+Node: [668ms Швеция SE 🇸🇪 @vlesstrojan] t.me/rjsxrd
+DL: 272.2 | UL: 105.7
+---
+Node: 🇩🇪 Germany — #223 t.me/rjsxrd
+DL: 268.6 | UL: 285.2
+---
+Node: 🏳️ ShatakVPN 976451 t.me/rjsxrd
+DL: 260.7 | UL: 261.7
+---
+Node: [VP1596]⭐ 🇳🇱 NLD 📑 [VK] t.me/rjsxrd
+DL: 256.3 | UL: 174.5
+---
+Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] VK t.me/rjsxrd
+DL: 254.4 | UL: 206.4
+---
+Node: 🇳🇱 Нидерланды [Белые Списки] t.me/rjsxrd
+DL: 217.9 | UL: 176.2
+---
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR] VK
+DL: 183.7 | UL: 297.0
+---
+Node: [1715ms Швеция SE 🇸🇪 @vlesstrojan] t.me/rjsxrd
+DL: 118.7 | UL: 130.9
+---
+Node: 138. ? 45.91.237.88 t.me/rjsxrd
+DL: 99.8 | UL: 187.9
+---
