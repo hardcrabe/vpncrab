@@ -1,2 +1,5 @@
 RESULTS
 =======
+Node: 🇱🇹 Lithuania, Vilnius | 🌐 | [IPv6] | [BL]
+DL: 290.7 | UL: 270.1
+---
