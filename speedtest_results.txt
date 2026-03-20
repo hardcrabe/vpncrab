@@ -1,29 +1,2 @@
 RESULTS
 =======
-Node: 🇱🇹 Lithuania [*CIDR]
-DL: 303.7 | UL: 83.9
----
-Node: 🇱🇹 Lithuania [*CIDR]
-DL: 302.4 | UL: 88.9
----
-Node: 🇳🇱 The Netherlands | 🌐 | [IPv6] [*CIDR] VK
-DL: 283.1 | UL: 134.2
----
-Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
-DL: 262.8 | UL: 307.0
----
-Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
-DL: 258.2 | UL: 305.3
----
-Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR]
-DL: 241.8 | UL: 281.9
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 226.9 | UL: 243.3
----
-Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR]
-DL: 221.9 | UL: 276.8
----
-Node: 🇳🇱 The Netherlands [*CIDR] YA
-DL: 217.7 | UL: 286.9
----
