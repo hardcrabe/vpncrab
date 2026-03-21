@@ -1,5 +1,38 @@
 RESULTS
 =======
-Node: 🇳🇱 The Netherlands, Amsterdam | [BL]
-DL: 108.8 | UL: 268.4
+Node: 🇨🇾 Cyprus [*CIDR]
+DL: 303.5 | UL: 322.1
+---
+Node: 🌐 Anycast-IP [*CIDR] VK
+DL: 300.9 | UL: 317.1
+---
+Node: 🇨🇾 Cyprus [*CIDR]
+DL: 300.7 | UL: 322.1
+---
+Node: 🌐 Anycast-IP [*CIDR] VK
+DL: 300.5 | UL: 219.8
+---
+Node: 🇱🇻 Latvia | 🌐 [*CIDR]
+DL: 293.4 | UL: 312.1
+---
+Node: 🇱🇻 Latvia | 🌐 [*CIDR]
+DL: 293.4 | UL: 308.7
+---
+Node: 🌐 Anycast-IP [*CIDR] VK
+DL: 292.1 | UL: 298.6
+---
+Node: 🇫🇷 France [*CIDR]
+DL: 283.5 | UL: 305.3
+---
+Node: 🌐 Anycast-IP [*CIDR] VK
+DL: 263.0 | UL: 80.5
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 259.4 | UL: 305.3
+---
+Node: 🇫🇷 France [*CIDR]
+DL: 246.6 | UL: 303.7
+---
+Node: 🇳🇱 The Netherlands [*CIDR] VK
+DL: 225.0 | UL: 297.0
 ---
