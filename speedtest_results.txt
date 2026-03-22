@@ -1,38 +1,26 @@
 RESULTS
 =======
-Node: 🇨🇾 Cyprus [*CIDR]
-DL: 303.5 | UL: 322.1
+Node: 🌐 Anycast-IP [*CIDR]
+DL: 296.7 | UL: 310.4
 ---
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 300.9 | UL: 317.1
+Node: 🌐 Anycast-IP [*CIDR]
+DL: 289.6 | UL: 302.0
 ---
-Node: 🇨🇾 Cyprus [*CIDR]
-DL: 300.7 | UL: 322.1
+Node: 🌐 Anycast-IP [*CIDR]
+DL: 275.8 | UL: 290.2
 ---
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 300.5 | UL: 219.8
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 268.4 | UL: 285.2
 ---
-Node: 🇱🇻 Latvia | 🌐 [*CIDR]
-DL: 293.4 | UL: 312.1
+Node: 🌐 Anycast-IP [*CIDR]
+DL: 268.0 | UL: 303.7
 ---
-Node: 🇱🇻 Latvia | 🌐 [*CIDR]
-DL: 293.4 | UL: 308.7
+Node: 🌐 Anycast-IP [*CIDR]
+DL: 217.3 | UL: 303.7
 ---
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 292.1 | UL: 298.6
+Node: 🌐 Anycast-IP [*CIDR]
+DL: 202.0 | UL: 169.4
 ---
-Node: 🇫🇷 France [*CIDR]
-DL: 283.5 | UL: 305.3
----
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 263.0 | UL: 80.5
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 259.4 | UL: 305.3
----
-Node: 🇫🇷 France [*CIDR]
-DL: 246.6 | UL: 303.7
----
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 225.0 | UL: 297.0
+Node: 🇳🇱 The Netherlands [*CIDR]
+DL: 174.5 | UL: 273.5
 ---
