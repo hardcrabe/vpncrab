@@ -1,5 +1,11 @@
 RESULTS
 =======
-Node: 🇭🇺 Hungary [*CIDR]
-DL: 170.1 | UL: 239.9
+Node: 🇩🇪 Germany [*CIDR]
+DL: 299.3 | UL: 243.3
+---
+Node: 🇺🇸 United States [*CIDR]
+DL: 291.3 | UL: 312.1
+---
+Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
+DL: 290.7 | UL: 300.3
 ---
