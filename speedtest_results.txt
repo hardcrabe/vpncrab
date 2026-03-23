@@ -1,2 +1,5 @@
 RESULTS
 =======
+Node: 🇭🇺 Hungary [*CIDR]
+DL: 170.1 | UL: 239.9
+---
