@@ -1,14 +1,2 @@
 RESULTS
 =======
-Node: 🇱🇹 Lithuania [*CIDR]
-DL: 297.2 | UL: 216.4
----
-Node: 🇱🇹 Lithuania [*CIDR]
-DL: 276.6 | UL: 315.4
----
-Node: 🇱🇹 Lithuania [*CIDR]
-DL: 275.1 | UL: 312.1
----
-Node: 🇳🇱 The Netherlands [*CIDR]
-DL: 187.5 | UL: 290.2
----
