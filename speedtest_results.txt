@@ -1,38 +1,17 @@
 RESULTS
 =======
-Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
-DL: 306.4 | UL: 320.4
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
+DL: 290.9 | UL: 176.2
 ---
-Node: 🇪🇪 Estonia [*CIDR]
-DL: 298.6 | UL: 315.4
+Node: 🇱🇹 Lithuania [*CIDR]
+DL: 277.5 | UL: 303.7
 ---
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 297.4 | UL: 318.8
+Node: 🇱🇹 Lithuania [*CIDR]
+DL: 257.1 | UL: 159.4
 ---
-Node: 🇳🇱 The Netherlands | 🌐 [*CIDR] VK
-DL: 293.8 | UL: 135.9
+Node: 🇱🇹 Lithuania [*CIDR]
+DL: 216.8 | UL: 174.5
 ---
-Node: 🇳🇱 The Netherlands [*CIDR] VK
-DL: 293.4 | UL: 307.0
----
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 290.5 | UL: 291.9
----
-Node: 🇫🇮 Finland [*CIDR] VK
-DL: 289.8 | UL: 320.4
----
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 288.1 | UL: 307.0
----
-Node: 🇵🇱 Poland [*CIDR] VK
-DL: 288.1 | UL: 317.1
----
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 273.7 | UL: 164.4
----
-Node: 🌐 Anycast-IP [*CIDR]
-DL: 257.1 | UL: 137.6
----
-Node: 🌐 Anycast-IP [*CIDR] VK
-DL: 219.8 | UL: 134.2
+Node: 🇱🇹 Lithuania [*CIDR]
+DL: 122.9 | UL: 117.4
 ---
