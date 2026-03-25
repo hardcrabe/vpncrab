@@ -1,17 +1,38 @@
 RESULTS
 =======
-Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
-DL: 290.9 | UL: 176.2
+Node: 🇱🇻 Latvia [*CIDR]
+DL: 306.4 | UL: 105.7
 ---
-Node: 🇱🇹 Lithuania [*CIDR]
-DL: 277.5 | UL: 303.7
+Node: 🇪🇪 Estonia, Tallinn | 🌐 | [IPv6] | [BL]
+DL: 304.3 | UL: 318.8
 ---
-Node: 🇱🇹 Lithuania [*CIDR]
-DL: 257.1 | UL: 159.4
+Node: 🇱🇻 Latvia [*CIDR]
+DL: 301.6 | UL: 152.7
 ---
-Node: 🇱🇹 Lithuania [*CIDR]
-DL: 216.8 | UL: 174.5
+Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
+DL: 299.7 | UL: 256.7
 ---
-Node: 🇱🇹 Lithuania [*CIDR]
-DL: 122.9 | UL: 117.4
+Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
+DL: 299.3 | UL: 250.0
+---
+Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
+DL: 290.9 | UL: 315.4
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 286.5 | UL: 268.4
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR] VK
+DL: 286.3 | UL: 280.2
+---
+Node: 🇫🇮 Finland [*CIDR] VK
+DL: 263.4 | UL: 92.3
+---
+Node: 🇵🇱 Poland | 🌐 | [IPv6] [*CIDR] VK
+DL: 250.6 | UL: 214.7
+---
+Node: 🇱🇹 Lithuania | 🌐 | [IPv6] [*CIDR]
+DL: 226.9 | UL: 302.0
+---
+Node: 🌐 Anycast-IP | [IPv6] [*CIDR]
+DL: 200.7 | UL: 125.8
 ---
