@@ -1,2 +1,5 @@
 RESULTS
 =======
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR]
+DL: 292.8 | UL: 315.4
+---
