@@ -1,5 +1,2 @@
 RESULTS
 =======
-Node: 🇦🇹 Austria, Vienna | 🌐 | [IPv6] | [BL]
-DL: 298.0 | UL: 310.4
----
