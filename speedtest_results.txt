@@ -1,2 +1,5 @@
 RESULTS
 =======
+Node: 🇱🇻 Latvia [*CIDR]
+DL: 282.9 | UL: 305.3
+---
