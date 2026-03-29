@@ -1,11 +1,11 @@
 RESULTS
 =======
-Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
-DL: 291.1 | UL: 273.5
+Node: 🇷🇺 Russia | 🌐 [*CIDR] VK
+DL: 299.1 | UL: 322.1
 ---
-Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
-DL: 248.1 | UL: 129.2
+Node: 🇷🇺 Russia | 🌐 [*CIDR] VK
+DL: 257.7 | UL: 276.8
 ---
-Node: 🇱🇹 Lithuania | 🌐 [*CIDR] YA
-DL: 218.9 | UL: 255.0
+Node: 🇺🇸 United States, Atlanta | [BL]
+DL: 219.8 | UL: 298.6
 ---
