@@ -1,2 +1,11 @@
 RESULTS
 =======
+Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
+DL: 303.7 | UL: 307.0
+---
+Node: 🌐 Anycast-IP [*CIDR] VK
+DL: 288.6 | UL: 298.6
+---
+Node: 🌐 Anycast-IP | [IPv6] [*CIDR] VK
+DL: 262.1 | UL: 283.5
+---
