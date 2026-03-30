@@ -1,11 +1,5 @@
 RESULTS
 =======
-Node: 🇷🇺 Russia | 🌐 [*CIDR] VK
-DL: 299.1 | UL: 322.1
----
-Node: 🇷🇺 Russia | 🌐 [*CIDR] VK
-DL: 257.7 | UL: 276.8
----
-Node: 🇺🇸 United States, Atlanta | [BL]
-DL: 219.8 | UL: 298.6
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR]
+DL: 241.4 | UL: 97.3
 ---
