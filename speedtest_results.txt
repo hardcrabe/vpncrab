@@ -1,5 +1,8 @@
 RESULTS
 =======
-Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
-DL: 296.1 | UL: 159.4
+Node: 🇩🇪 Germany [*CIDR]
+DL: 278.1 | UL: 208.0
+---
+Node: 🇫🇮 Finland | 🌐 | [IPv6] [*CIDR]
+DL: 276.2 | UL: 110.7
 ---
