@@ -1,11 +1,5 @@
 RESULTS
 =======
-Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
-DL: 232.7 | UL: 171.1
----
 Node: 🌐 Anycast-IP | [IPv6] | [BL]
-DL: 220.8 | UL: 202.9
----
-Node: 🇸🇪 Sweden, Stockholm | [BL]
-DL: 210.6 | UL: 34.5
+DL: 218.6 | UL: 204.3
 ---
