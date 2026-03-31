@@ -1,20 +1,2 @@
 RESULTS
 =======
-Node: 🇱🇹 Lithuania, Šiauliai | [BL]
-DL: 305.3 | UL: 315.4
----
-Node: 🇱🇹 Lithuania | 🌐 | [IPv6] [*CIDR] VK
-DL: 304.7 | UL: 313.7
----
-Node: 🇱🇹 Lithuania | 🌐 | [IPv6] [*CIDR] VK
-DL: 297.2 | UL: 302.0
----
-Node: 🇪🇸 Spain, Titulcia | 🌐 | [BL]
-DL: 291.7 | UL: 204.7
----
-Node: 🇱🇹 Lithuania | 🌐 | [IPv6] [*CIDR] VK
-DL: 287.3 | UL: 300.3
----
-Node: 🇪🇸 Spain, Titulcia | 🌐 | [BL]
-DL: 284.6 | UL: 179.5
----
