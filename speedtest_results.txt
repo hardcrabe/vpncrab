@@ -1,53 +1,20 @@
 RESULTS
 =======
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 299.1 | UL: 312.1
+Node: 🇱🇹 Lithuania, Šiauliai | [BL]
+DL: 305.3 | UL: 315.4
 ---
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 299.1 | UL: 317.1
+Node: 🇱🇹 Lithuania | 🌐 | [IPv6] [*CIDR] VK
+DL: 304.7 | UL: 313.7
 ---
-Node: 🇦🇪 United Arab Emirates, Abu Dhabi | 🌐 | [BL]
-DL: 297.0 | UL: 317.1
+Node: 🇱🇹 Lithuania | 🌐 | [IPv6] [*CIDR] VK
+DL: 297.2 | UL: 302.0
 ---
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 297.0 | UL: 312.1
+Node: 🇪🇸 Spain, Titulcia | 🌐 | [BL]
+DL: 291.7 | UL: 204.7
 ---
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 296.3 | UL: 318.8
+Node: 🇱🇹 Lithuania | 🌐 | [IPv6] [*CIDR] VK
+DL: 287.3 | UL: 300.3
 ---
-Node: 🇦🇪 United Arab Emirates, Abu Dhabi | 🌐 | [BL]
-DL: 295.5 | UL: 318.8
----
-Node: 🇦🇪 United Arab Emirates, Abu Dhabi | 🌐 | [BL]
-DL: 294.6 | UL: 320.4
----
-Node: 🇫🇷 France, Paris | 🌐 | [BL]
-DL: 294.4 | UL: 260.0
----
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 292.1 | UL: 310.4
----
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 291.5 | UL: 317.1
----
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 291.3 | UL: 317.1
----
-Node: 🇦🇪 United Arab Emirates, Abu Dhabi | 🌐 | [BL]
-DL: 291.3 | UL: 318.8
----
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 290.9 | UL: 315.4
----
-Node: 🇫🇷 France, Paris | 🌐 | [BL]
-DL: 289.0 | UL: 281.9
----
-Node: 🇫🇮 Finland, Helsinki | [BL]
-DL: 260.5 | UL: 315.4
----
-Node: 🇳🇱 The Netherlands, Amsterdam | 🌐 | [BL]
-DL: 198.0 | UL: 315.4
----
-Node: 🇱🇻 Latvia, Riga | [BL]
-DL: 167.4 | UL: 184.5
+Node: 🇪🇸 Spain, Titulcia | 🌐 | [BL]
+DL: 284.6 | UL: 179.5
 ---
