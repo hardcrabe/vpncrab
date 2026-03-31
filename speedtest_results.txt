@@ -1,23 +1,5 @@
 RESULTS
 =======
-Node: 🇱🇹 Lithuania [*CIDR] VK
-DL: 303.2 | UL: 301.6
----
-Node: 🇱🇹 Lithuania [*CIDR] VK
-DL: 298.4 | UL: 300.1
----
-Node: 🇱🇹 Lithuania [*CIDR] VK
-DL: 297.1 | UL: 297.0
----
-Node: 🇱🇹 Lithuania [*CIDR] VK
-DL: 289.7 | UL: 289.2
----
-Node: 🇱🇹 Lithuania [*CIDR] VK
-DL: 289.3 | UL: 291.0
----
 Node: 🌐 Anycast-IP | [IPv6] | [BL]
-DL: 281.4 | UL: 301.0
----
-Node: 🇸🇪 Sweden, Stockholm | [BL]
-DL: 278.4 | UL: 223.0
+DL: 287.7 | UL: 310.4
 ---
