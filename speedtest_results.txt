@@ -1,8 +1,5 @@
 RESULTS
 =======
-Node: 🇸🇪 Sweden, Stockholm | [BL]
-DL: 231.5 | UL: 235.9
----
 Node: 🌐 Anycast-IP | [IPv6] | [BL]
-DL: 212.9 | UL: 288.2
+DL: 293.4 | UL: 312.1
 ---
