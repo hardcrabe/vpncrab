@@ -1,0 +1,2 @@
+vless://a9c606b3-75cd-4844-a862-db455997f783@89.208.198.39:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🌐 verified · t.me/XRayCheck
+vless://089b41f3-0644-4306-855b-19ca32a472b5@176.108.240.172:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=pimg.mycdn.me&pbk=LW4kZEMbix1PIESoiJUi8pSl-uIaupCXn9LHq9znVDQ&spx=%2F#🌐 verified · t.me/XRayCheck
