@@ -1,2 +1,8 @@
 RESULTS
 =======
+Node: 🌐 verified · t.me/XRayCheck
+DL: 299.9 | UL: 310.4
+---
+Node: 🌐 verified · t.me/XRayCheck
+DL: 252.5 | UL: 305.3
+---
