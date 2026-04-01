@@ -1,5 +1,5 @@
 RESULTS
 =======
-Node: 🌐 Anycast-IP | [IPv6] | [BL]
-DL: 218.6 | UL: 204.3
+Node: 🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
+DL: 297.4 | UL: 307.0
 ---
