@@ -1,1 +1,0 @@
-vless://713a5d33-50db-4a44-aff4-56b273c207da@4-node-midas.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=jHFbh_fa3jmZfcZZMmN3xME4JLGoDFHC8_X1EZHK8kU&security=reality&sid=0bc73dd1f045&sni=www.intel.com&type=tcp#🇩🇪175Mb | aurologic GmbH
