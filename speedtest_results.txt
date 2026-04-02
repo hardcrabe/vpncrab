@@ -1,6 +1,2 @@
 RESULTS
 =======
-Node: 🇩🇪175Mb | aurologic GmbH
-Ping: 327 ms
-DL: 210.2 | UL: 53.3
----
