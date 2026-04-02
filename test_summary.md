@@ -1,2 +1,2 @@
-# Stats 2026-04-02 04:37:16
-Total Nodes: 527 | Alive: 399 | Good Speed: 0
+# Stats 2026-04-02 21:11:56.525640
+Total: 212 | Ping OK: 60 | URL OK: 3 | Good: 0
