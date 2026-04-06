@@ -1,1 +1,1 @@
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@franklinandwillow.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@195.2.84.109:443?encryption=none&flow=xtls-rprx-vision&pbk=6OvNu3z9uVh1Br6hIOQOz4Qai7xuykdjcvtqiLqNRUs&security=reality&sid=3edd4952&sni=ads.x5.ru&type=tcp#🇷🇺170Mb | Hosting technology LTD
