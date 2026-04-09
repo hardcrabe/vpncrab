@@ -1,120 +1,120 @@
-DL: 303.3 Mbps | UL: 287.5 Mbps | Ping: 102 ms | Delay: 87.1 ms | MiniDL: 160.2 Mbps | Good: true | MaybeGood: false | Server: Frankfurt / Germany | Name: 🇫🇮240Mb | H2nexus | Error: 
-vless://91ce09d4-1879-4a24-a321-58fa5eefe6f8@ru3.b2-ray.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vC8eHsS-_S5vKUHJG-Ry87eR9epEMnyPb347mMiRQx0&security=reality&sid=6117cc3b&sni=ya.ru&spx=%2F5xdnkS0eKKIVW8K&type=tcp#🇫🇮240Mb | H2nexus
+DL: 259.8 Mbps | UL: 2.0 Mbps | Ping: 171 ms | Delay: 169.7 ms | MiniDL: 17.8 Mbps | Good: false | MaybeGood: false | Server: Nienburg / Germany | Name: 🇩🇪 Germany, Frankfurt am Main | [BL] | Error: 
+vless://53821f3c-5b03-456a-89f3-f8379f130752@de12.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=firefox&type=ws&sni=de12.abvpn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 ---
-DL: 292.8 Mbps | UL: 288.4 Mbps | Ping: 21 ms | Delay: 18.7 ms | MiniDL: 58.8 Mbps | Good: true | MaybeGood: false | Server: Helsinki / Finland | Name: 🇷🇺589Mb | JSC Selectel | Error: 
-vless://a4781dcf-a769-4ec6-8d01-b5c1c0b23163@ru1.krevetkavpn.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=001mDXNrb0EpaqsrKz0B3HYr7OEde1FkZWQMrRgJ6mQ&security=reality&sid=5bea803a&sni=stats.vk-portal.net&type=tcp#🇷🇺589Mb | JSC Selectel
+DL: 205.4 Mbps | UL: 81.9 Mbps | Ping: 14 ms | Delay: 37.2 ms | MiniDL: 103.1 Mbps | Good: true | MaybeGood: false | Server: Moscow / Russia | Name: 🇷🇺350Mb | Vpsville | Error: 
+vless://3de26259-e6b4-4b22-af75-2f473d548e94@84.54.39.184:2083?encryption=none&fp=qq&headerType=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=goya.rutube.ru&type=grpc#🇷🇺350Mb | Vpsville
 ---
-DL: 292.3 Mbps | UL: 288.6 Mbps | Ping: 47 ms | Delay: 72.9 ms | MiniDL: 294.6 Mbps | Good: true | MaybeGood: false | Server: Amsterdam / Netherlands | Name: 🇳🇱480Mb | hostoff Csl | Error: 
-vless://e9ac8c61-201c-4342-8060-0e955bef84e7@195.133.73.248:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&security=reality&sid=86b80f1e713a33ad&sni=eh.vk.com&type=tcp#🇳🇱480Mb | hostoff Csl
+DL: 178.3 Mbps | UL: 4.3 Mbps | Ping: 59 ms | Delay: 52.4 ms | MiniDL: 45.5 Mbps | Good: false | MaybeGood: false | Server: Amsterdam / Netherlands | Name: 🇷🇺124Mb | Timeweb LLP | Error: 
+vless://3de26259-e6b4-4b22-af75-2f473d548e94@nl.appav.online:2083?encryption=none&flow=&fp=qq&headerType=none&packetEncoding=xudp&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=apple.com&type=grpc#🇷🇺124Mb | Timeweb LLP
 ---
-DL: 290.5 Mbps | UL: 289.0 Mbps | Ping: 21 ms | Delay: 18.8 ms | MiniDL: 129.7 Mbps | Good: true | MaybeGood: false | Server: Helsinki / Finland | Name: 🇷🇺452Mb | JSC Selectel | Error: 
-vless://b33d24eb-1d34-4b5f-bae2-31f5720fb509@ru1.krevetkavpn.ru:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=uj0IWY_E4-rnooWaJ9aLs1OwBHjERcIsicINge5HNGk&security=reality&sid=10157c5a414da989&sni=eh.vk.com&type=tcp#🇷🇺452Mb | JSC Selectel
+DL: 146.1 Mbps | UL: 4.6 Mbps | Ping: 59 ms | Delay: 86.6 ms | MiniDL: 15.0 Mbps | Good: false | MaybeGood: false | Server: Geneva / Switzerland | Name: 🇨🇭76Mb | Infomaniak Network SA | Error: 
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?allowinsecure=0&authority=&encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🇨🇭76Mb | Infomaniak Network SA
 ---
-DL: 281.7 Mbps | UL: 0.0 Mbps | Ping: 67 ms | Delay: 76.9 ms | MiniDL: 177.0 Mbps | Good: false | MaybeGood: false | Server: Prague / Czechia | Name: 🇨🇿168Mb | Timeweb LLP | Error: 
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@195.133.63.155:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sid=9a4c1d8f2e3b4a11&sni=www.cloudflare.com&type=tcp#🇨🇿168Mb | Timeweb LLP
+DL: 76.0 Mbps | UL: 0.0 Mbps | Ping: 148 ms | Delay: 143.3 ms | MiniDL: 36.1 Mbps | Good: false | MaybeGood: false | Server: Pineville, NC / United States | Name: 🇺🇸157Mb | Aeza Group | Error: 
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@us.wireguardvpnbotik.com:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&security=reality&sid=eb4dab296fa65826&sni=avatars.mds.yandex.net&type=tcp#🇺🇸157Mb | Aeza Group
 ---
-DL: 238.1 Mbps | UL: 8.4 Mbps | Ping: 29 ms | Delay: 58.5 ms | MiniDL: 133.2 Mbps | Good: false | MaybeGood: false | Server: Moscow / Russia | Name: 🇷🇺 Russia [*CIDR] VK | Error: 
-vless://40600c8a-730a-411c-b72b-c3bca115dcf7@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+DL: 56.6 Mbps | UL: 11.8 Mbps | Ping: 73 ms | Delay: 103.0 ms | MiniDL: 70.3 Mbps | Good: false | MaybeGood: false | Server: Amsterdam / Netherlands | Name: 🇳🇱82Mb | Servers Tech Fzco | Error: 
+vless://af6f2c82-bab8-4db7-b878-df07d8061cf1@node-nl1.rmp-inc.top:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=19Z9Syrik36ltvmS01HL2hsxcPCjlEF16wXWOozJHTU&security=reality&sid=&sni=eh.vk.com&type=tcp#🇳🇱82Mb | Servers Tech Fzco
 ---
-DL: 13.6 Mbps | UL: 0.0 Mbps | Ping: 33 ms | Delay: 549.0 ms | MiniDL: 144.5 Mbps | Good: false | MaybeGood: false | Server: Kovrov / Russia | Name: 🇷🇺 Russia [*CIDR] VK | Error: 
-vless://4984b534-98a8-4e1c-a079-a48d9d9dc86c@95.163.182.169:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+DL: 37.3 Mbps | UL: 23.1 Mbps | Ping: 71 ms | Delay: 74.1 ms | MiniDL: 15.2 Mbps | Good: false | MaybeGood: false | Server: Helsinki / Finland | Name: 🇪🇪62Mb | SmartApe OU | Error: 
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@87.236.146.32:443?flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇪🇪62Mb | SmartApe OU
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 51.6 ms | MiniDL: 198.4 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪461Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1nmygulqanocr.cloudfront.net&path=/&security=tls&sni=d1nmygulqanocr.cloudfront.net&type=ws#🇩🇪461Mb | Hetzner
+DL: 1.7 Mbps | UL: 17.8 Mbps | Ping: 108 ms | Delay: 123.8 ms | MiniDL: 58.6 Mbps | Good: false | MaybeGood: false | Server: Warsaw / Poland | Name: 🇵🇱98Mb | OVH | Error: 
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?allowinsecure=0&authority=&encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🇵🇱98Mb | OVH
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 48.9 ms | MiniDL: 175.2 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪380Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d39dlcpqfznvwm.cloudfront.net&path=/&security=tls&sni=d39dlcpqfznvwm.cloudfront.net&type=ws#🇩🇪380Mb | Hetzner
+DL: 0.0 Mbps | UL: 1.4 Mbps | Ping: 0 ms | Delay: 151.2 ms | MiniDL: 50.8 Mbps | Good: false | MaybeGood: false | Server: Charlotte, NC / United States | Name: 🇺🇸170Mb | Aeza Group | Error: 
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@us.wireguardvpnbotik.com:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&security=reality&sid=24bcbc4cdf370ec1&sni=avatars.mds.yandex.net&type=tcp#🇺🇸170Mb | Aeza Group
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 52.0 ms | MiniDL: 271.9 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪402Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d274l6nhg4w83n.cloudfront.net&path=/&security=tls&sni=d274l6nhg4w83n.cloudfront.net&type=ws#🇩🇪402Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 57.5 ms | MiniDL: 57.1 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪392Mb | Hetzner | Error: 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2dh80guserwjs.cloudfront.net&path=/&security=tls&sni=d2dh80guserwjs.cloudfront.net&type=ws#🇩🇪392Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 49.4 ms | MiniDL: 238.2 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪286Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dqxt5nwnm8q7p.cloudfront.net&path=/&security=tls&sni=dqxt5nwnm8q7p.cloudfront.net&type=ws#🇩🇪286Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 47.2 ms | MiniDL: 17.5 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪350Mb | Hetzner | Error: 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2fpx0lirf9lpk.cloudfront.net&path=/&security=tls&sni=d2fpx0lirf9lpk.cloudfront.net&type=ws#🇩🇪350Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 50.2 ms | MiniDL: 237.9 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪401Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d3q626h99xv6xv.cloudfront.net&path=/&security=tls&sni=d3q626h99xv6xv.cloudfront.net&type=ws#🇩🇪401Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 59.2 ms | MiniDL: 59.3 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪422Mb | Hetzner | Error: 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2jhkzkkbqsx8m.cloudfront.net&path=/&security=tls&sni=d2jhkzkkbqsx8m.cloudfront.net&type=ws#🇩🇪422Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 52.8 ms | MiniDL: 232.7 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪357Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d23iuljn5k9z1j.cloudfront.net&path=/&security=tls&sni=d23iuljn5k9z1j.cloudfront.net&type=ws#🇩🇪357Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 48.8 ms | MiniDL: 63.8 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪321Mb | Hetzner | Error: 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2ttwif2oxuebl.cloudfront.net&path=/&security=tls&sni=d2ttwif2oxuebl.cloudfront.net&type=ws#🇩🇪321Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 53.7 ms | MiniDL: 231.9 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪417Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2jhkzkkbqsx8m.cloudfront.net&path=/&security=tls&sni=d2jhkzkkbqsx8m.cloudfront.net&type=ws#🇩🇪417Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 59.1 ms | MiniDL: 67.4 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪216Mb | Hetzner | Error: 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dhfu0wf8on7ln.cloudfront.net&path=/&security=tls&sni=dhfu0wf8on7ln.cloudfront.net&type=ws#🇩🇪216Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 52.3 ms | MiniDL: 227.0 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪346Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d114hsor5wwwt4.cloudfront.net&path=/&security=tls&sni=d114hsor5wwwt4.cloudfront.net&type=ws#🇩🇪346Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 53.8 ms | MiniDL: 9.4 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪415Mb | Hetzner | Error: 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d23iuljn5k9z1j.cloudfront.net&path=/&security=tls&sni=d23iuljn5k9z1j.cloudfront.net&type=ws#🇩🇪415Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 51.6 ms | MiniDL: 216.0 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪223Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2t74h7x0ly31g.cloudfront.net&path=/&security=tls&sni=d2t74h7x0ly31g.cloudfront.net&type=ws#🇩🇪223Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 49.0 ms | MiniDL: 91.5 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪415Mb | Hetzner | Error: 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1mr7skcyc398h.cloudfront.net&path=/&security=tls&sni=d1mr7skcyc398h.cloudfront.net&type=ws#🇩🇪415Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 52.1 ms | MiniDL: 211.6 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪399Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2dh80guserwjs.cloudfront.net&path=/&security=tls&sni=d2dh80guserwjs.cloudfront.net&type=ws#🇩🇪399Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 50.5 ms | MiniDL: 97.1 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪376Mb | Hetzner | Error: 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2pogzrl1kqnad.cloudfront.net&path=/&security=tls&sni=d2pogzrl1kqnad.cloudfront.net&type=ws#🇩🇪376Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 56.4 ms | MiniDL: 211.3 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪343Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1pp2ypwsjh3db.cloudfront.net&path=/&security=tls&sni=d1pp2ypwsjh3db.cloudfront.net&type=ws#🇩🇪343Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 51.8 ms | MiniDL: 101.0 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪226Mb | Hetzner | Error: 
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1nmygulqanocr.cloudfront.net&path=/&security=tls&sni=d1nmygulqanocr.cloudfront.net&type=ws#🇩🇪226Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 47.2 ms | MiniDL: 209.2 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪449Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1ybuqvwe5q3v2.cloudfront.net&path=/&security=tls&sni=d1ybuqvwe5q3v2.cloudfront.net&type=ws#🇩🇪449Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 55.7 ms | MiniDL: 152.7 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪215Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1pp2ypwsjh3db.cloudfront.net&path=/&security=tls&sni=d1pp2ypwsjh3db.cloudfront.net&type=ws#🇩🇪215Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 50.3 ms | MiniDL: 205.4 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪348Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2ttwif2oxuebl.cloudfront.net&path=/&security=tls&sni=d2ttwif2oxuebl.cloudfront.net&type=ws#🇩🇪348Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 51.9 ms | MiniDL: 163.3 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪453Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=di9hjz5ecyze6.cloudfront.net&path=/&security=tls&sni=di9hjz5ecyze6.cloudfront.net&type=ws#🇩🇪453Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 50.4 ms | MiniDL: 258.1 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪325Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d36nkq54aoc861.cloudfront.net&path=/&security=tls&sni=d36nkq54aoc861.cloudfront.net&type=ws#🇩🇪325Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 84.7 ms | MiniDL: 98.2 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇵🇱123Mb | hostoff Csl | Error: Get "https://www.speedtest.net/api/js/servers": dial tcp 144.31.29.149:58934: i/o timeout
+vless://4f0b281e-8a49-4a2d-9e54-3abe1c9b9d1f@pl1.trost-shield.ru:58934?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=eITCPDeBwWNWFgPIFHCpnFZ_x5kQ3DxsKO8LISMDczw&security=reality&sid=0588&sni=www.sony.com&type=tcp#🇵🇱123Mb | hostoff Csl
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 49.7 ms | MiniDL: 188.6 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪341Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d3fnxumr6cd5wj.cloudfront.net&path=/&security=tls&sni=d3fnxumr6cd5wj.cloudfront.net&type=ws#🇩🇪341Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 48.7 ms | MiniDL: 110.6 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪217Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1f4urqtjo8prx.cloudfront.net&path=/&security=tls&sni=d1f4urqtjo8prx.cloudfront.net&type=ws#🇩🇪217Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 50.4 ms | MiniDL: 187.3 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪345Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d24f6c9l7fxvak.cloudfront.net&path=/&security=tls&sni=d24f6c9l7fxvak.cloudfront.net&type=ws#🇩🇪345Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 55.1 ms | MiniDL: 112.3 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪228Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2aq8ciyoed6g4.cloudfront.net&path=/&security=tls&sni=d2aq8ciyoed6g4.cloudfront.net&type=ws#🇩🇪228Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 52.4 ms | MiniDL: 243.6 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪404Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2269z1pj4ngav.cloudfront.net&path=/&security=tls&sni=d2269z1pj4ngav.cloudfront.net&type=ws#🇩🇪404Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 49.3 ms | MiniDL: 114.8 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪226Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d28l8t0kngsufn.cloudfront.net&path=/&security=tls&sni=d28l8t0kngsufn.cloudfront.net&type=ws#🇩🇪226Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 49.7 ms | MiniDL: 239.9 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪351Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2pogzrl1kqnad.cloudfront.net&path=/&security=tls&sni=d2pogzrl1kqnad.cloudfront.net&type=ws#🇩🇪351Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 50.0 ms | MiniDL: 126.5 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪456Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d39dlcpqfznvwm.cloudfront.net&path=/&security=tls&sni=d39dlcpqfznvwm.cloudfront.net&type=ws#🇩🇪456Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 52.4 ms | MiniDL: 172.5 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪396Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2fpx0lirf9lpk.cloudfront.net&path=/&security=tls&sni=d2fpx0lirf9lpk.cloudfront.net&type=ws#🇩🇪396Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 60.6 ms | MiniDL: 131.3 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪221Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d219x6s2b0tbow.cloudfront.net&path=/&security=tls&sni=d219x6s2b0tbow.cloudfront.net&type=ws#🇩🇪221Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 50.3 ms | MiniDL: 245.7 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪368Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=di9hjz5ecyze6.cloudfront.net&path=/&security=tls&sni=di9hjz5ecyze6.cloudfront.net&type=ws#🇩🇪368Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 57.2 ms | MiniDL: 148.6 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪299Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d36nkq54aoc861.cloudfront.net&path=/&security=tls&sni=d36nkq54aoc861.cloudfront.net&type=ws#🇩🇪299Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 48.1 ms | MiniDL: 129.7 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪361Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2241b25w3zftf.cloudfront.net&path=/&security=tls&sni=d2241b25w3zftf.cloudfront.net&type=ws#🇩🇪361Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 55.2 ms | MiniDL: 223.6 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪211Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d28vkbmq29hept.cloudfront.net&path=/&security=tls&sni=d28vkbmq29hept.cloudfront.net&type=ws#🇩🇪211Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 52.5 ms | MiniDL: 152.9 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪316Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2wj0uvcux5h4k.cloudfront.net&path=/&security=tls&sni=d2wj0uvcux5h4k.cloudfront.net&type=ws#🇩🇪316Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 63.0 ms | MiniDL: 158.7 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪224Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2wj0uvcux5h4k.cloudfront.net&path=/&security=tls&sni=d2wj0uvcux5h4k.cloudfront.net&type=ws#🇩🇪224Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 49.2 ms | MiniDL: 146.7 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪465Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1mr7skcyc398h.cloudfront.net&path=/&security=tls&sni=d1mr7skcyc398h.cloudfront.net&type=ws#🇩🇪465Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 57.7 ms | MiniDL: 104.0 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪246Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2t74h7x0ly31g.cloudfront.net&path=/&security=tls&sni=d2t74h7x0ly31g.cloudfront.net&type=ws#🇩🇪246Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 51.5 ms | MiniDL: 145.6 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪452Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d28l8t0kngsufn.cloudfront.net&path=/&security=tls&sni=d28l8t0kngsufn.cloudfront.net&type=ws#🇩🇪452Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 58.7 ms | MiniDL: 165.9 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪221Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d24f6c9l7fxvak.cloudfront.net&path=/&security=tls&sni=d24f6c9l7fxvak.cloudfront.net&type=ws#🇩🇪221Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 49.3 ms | MiniDL: 144.8 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪510Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2aq8ciyoed6g4.cloudfront.net&path=/&security=tls&sni=d2aq8ciyoed6g4.cloudfront.net&type=ws#🇩🇪510Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 60.1 ms | MiniDL: 166.6 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪372Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d274l6nhg4w83n.cloudfront.net&path=/&security=tls&sni=d274l6nhg4w83n.cloudfront.net&type=ws#🇩🇪372Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 51.2 ms | MiniDL: 256.4 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪326Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d28vkbmq29hept.cloudfront.net&path=/&security=tls&sni=d28vkbmq29hept.cloudfront.net&type=ws#🇩🇪326Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 31.8 ms | MiniDL: 30.2 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇫🇮196Mb | Baykov Ilya Sergeevich | Error: Get "https://www.speedtest.net/api/js/servers": dial tcp 45.12.70.96:37623: i/o timeout
+vless://a3a90d47-df89-496b-a578-814d8c85d8fc@finland-1.mutabor-sec.ru:37623?allowinsecure=0&encryption=none&fp=random&headerType=none&pbk=VSD97wC6JYviZSi66w6leWdOljj_dr4LaibgyoGDLnw&security=reality&sid=458dfb15fb&sni=www.mutabor-sec.ru&spx=/VGg5te9EB8nbn8a&type=tcp#🇫🇮196Mb | Baykov Ilya Sergeevich
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 53.9 ms | MiniDL: 257.5 Mbps | Good: false | MaybeGood: false | Server: Nurnberg / Germany | Name: 🇩🇪325Mb | Hetzner | Error: 
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1f4urqtjo8prx.cloudfront.net&path=/&security=tls&sni=d1f4urqtjo8prx.cloudfront.net&type=ws#🇩🇪325Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 148.1 ms | MiniDL: 28.4 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇺🇸136Mb | Aeza Group | Error: Get "https://www.speedtest.net/api/js/servers": context deadline exceeded
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@us.wireguardvpnbotik.com:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&security=reality&sid=f1a136c16477ae3c&sni=avatars.mds.yandex.net&type=tcp#🇺🇸136Mb | Aeza Group
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 68.9 ms | MiniDL: 157.9 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇷🇺 Russia [*CIDR] VK | Error: Get "https://www.speedtest.net/api/js/servers": context deadline exceeded
-vless://d19c562c-61ff-44a3-861c-273add2e14f8@95.163.182.169:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 49.9 ms | MiniDL: 169.3 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪219Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2269z1pj4ngav.cloudfront.net&path=/&security=tls&sni=d2269z1pj4ngav.cloudfront.net&type=ws#🇩🇪219Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 133.5 ms | MiniDL: 581.0 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇷🇺439Mb | VK | Error: Get "https://www.speedtest.net/api/js/servers": context deadline exceeded
-vless://97d702cf-f2bb-47f2-9449-77d892b7814c@85.192.35.9:443?encryption=none&flow=xtls-rprx-vision&fp=random&headerType=none&pbk=TPERgGPDAcekwVBVFV74aY_zD--Xx7GbTq1-f84h5Ew&security=reality&sid=5145ab05854122b4&sni=dodo.netotcluchai.top&type=tcp#🇷🇺439Mb | VK
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 62.8 ms | MiniDL: 171.4 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪372Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1ybuqvwe5q3v2.cloudfront.net&path=/&security=tls&sni=d1ybuqvwe5q3v2.cloudfront.net&type=ws#🇩🇪372Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 49.0 ms | MiniDL: 126.4 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪480Mb | Hetzner | Error: invalid character '<' looking for beginning of value
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d219x6s2b0tbow.cloudfront.net&path=/&security=tls&sni=d219x6s2b0tbow.cloudfront.net&type=ws#🇩🇪480Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 50.6 ms | MiniDL: 176.2 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪220Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d3q626h99xv6xv.cloudfront.net&path=/&security=tls&sni=d3q626h99xv6xv.cloudfront.net&type=ws#🇩🇪220Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 131.8 ms | MiniDL: 106.3 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇷🇺105Mb | Domain names registrar REGRU | Error: Get "https://www.speedtest.net/api/js/servers": context deadline exceeded
-vless://91ce09d4-1879-4a24-a321-58fa5eefe6f8@ru4.b2-ray.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=U0kSbayNCG0zq6WQlCPYoFyzWqbJ7ZpxxROBYuHIQhc&security=reality&sid=4becb820&sni=ya.ru&spx=%2Fy7WBvdzHL357DPF&type=tcp#🇷🇺105Mb | Domain names registrar REGRU
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 65.4 ms | MiniDL: 216.5 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪227Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d114hsor5wwwt4.cloudfront.net&path=/&security=tls&sni=d114hsor5wwwt4.cloudfront.net&type=ws#🇩🇪227Mb | Hetzner
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 52.5 ms | MiniDL: 92.3 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪393Mb | Hetzner | Error: invalid character '<' looking for beginning of value
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dhfu0wf8on7ln.cloudfront.net&path=/&security=tls&sni=dhfu0wf8on7ln.cloudfront.net&type=ws#🇩🇪393Mb | Hetzner
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 58.6 ms | MiniDL: 13.7 Mbps | Good: false | MaybeGood: false | Server:  /  | Name: 🇩🇪185Mb | aurologic GmbH | Error: Get "https://www.speedtest.net/api/js/servers": context deadline exceeded
+vless://91ce09d4-1879-4a24-a321-58fa5eefe6f8@ru4.b2-ray.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=U0kSbayNCG0zq6WQlCPYoFyzWqbJ7ZpxxROBYuHIQhc&security=reality&sid=4becb820&sni=ya.ru&spx=%2Fy7WBvdzHL357DPF&type=tcp#🇩🇪185Mb | aurologic GmbH
 ---
-DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 36.1 ms | MiniDL: 238.3 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇷🇺 Russia [*CIDR] VK | Error: Get "https://www.speedtest.net/api/js/servers": context deadline exceeded
-vless://40600c8a-730a-411c-b72b-c3bca115dcf7@95.163.183.246:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+DL: 0.0 Mbps | UL: 0.0 Mbps | Ping: 0 ms | Delay: 62.8 ms | MiniDL: 221.4 Mbps | Good: false | MaybeGood: true | Server:  /  | Name: 🇩🇪376Mb | Hetzner | Error: invalid character '<' looking for beginning of value
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2241b25w3zftf.cloudfront.net&path=/&security=tls&sni=d2241b25w3zftf.cloudfront.net&type=ws#🇩🇪376Mb | Hetzner
 ---
