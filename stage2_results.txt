@@ -1,240 +1,165 @@
-MiniDL: 581.0 Mbps | RawSpeed: 580.95Mbps | Delay: 133.5 ms | MiniLatency: 122 ms | IP: 85.192.35.9 | Name: 🇷🇺439Mb | VK
-vless://97d702cf-f2bb-47f2-9449-77d892b7814c@85.192.35.9:443?encryption=none&flow=xtls-rprx-vision&fp=random&headerType=none&pbk=TPERgGPDAcekwVBVFV74aY_zD--Xx7GbTq1-f84h5Ew&security=reality&sid=5145ab05854122b4&sni=dodo.netotcluchai.top&type=tcp#🇷🇺439Mb | VK
+MiniDL: 223.6 Mbps | RawSpeed: 223.55Mbps | Delay: 55.2 ms | MiniLatency: 308 ms | IP: 91.107.240.42 | Name: 🇩🇪211Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d28vkbmq29hept.cloudfront.net&path=/&security=tls&sni=d28vkbmq29hept.cloudfront.net&type=ws#🇩🇪211Mb | Hetzner
 ---
-MiniDL: 294.6 Mbps | RawSpeed: 294.55Mbps | Delay: 72.9 ms | MiniLatency: 369 ms | IP: 2a12:bec4:1ac0:842:: | Name: 🇳🇱480Mb | hostoff Csl
-vless://e9ac8c61-201c-4342-8060-0e955bef84e7@195.133.73.248:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&security=reality&sid=86b80f1e713a33ad&sni=eh.vk.com&type=tcp#🇳🇱480Mb | hostoff Csl
+MiniDL: 221.4 Mbps | RawSpeed: 221.40Mbps | Delay: 62.8 ms | MiniLatency: 390 ms | IP: 91.107.251.167 | Name: 🇩🇪376Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2241b25w3zftf.cloudfront.net&path=/&security=tls&sni=d2241b25w3zftf.cloudfront.net&type=ws#🇩🇪376Mb | Hetzner
 ---
-MiniDL: 271.9 Mbps | RawSpeed: 271.95Mbps | Delay: 52.0 ms | MiniLatency: 283 ms | IP: 5.75.192.182 | Name: 🇩🇪402Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d274l6nhg4w83n.cloudfront.net&path=/&security=tls&sni=d274l6nhg4w83n.cloudfront.net&type=ws#🇩🇪402Mb | Hetzner
+MiniDL: 216.5 Mbps | RawSpeed: 216.51Mbps | Delay: 65.4 ms | MiniLatency: 316 ms | IP: 91.107.246.255 | Name: 🇩🇪227Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d114hsor5wwwt4.cloudfront.net&path=/&security=tls&sni=d114hsor5wwwt4.cloudfront.net&type=ws#🇩🇪227Mb | Hetzner
 ---
-MiniDL: 258.1 Mbps | RawSpeed: 258.09Mbps | Delay: 50.4 ms | MiniLatency: 304 ms | IP: 46.225.123.146 | Name: 🇩🇪325Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d36nkq54aoc861.cloudfront.net&path=/&security=tls&sni=d36nkq54aoc861.cloudfront.net&type=ws#🇩🇪325Mb | Hetzner
+MiniDL: 176.2 Mbps | RawSpeed: 176.21Mbps | Delay: 50.6 ms | MiniLatency: 336 ms | IP: 91.107.245.234 | Name: 🇩🇪220Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d3q626h99xv6xv.cloudfront.net&path=/&security=tls&sni=d3q626h99xv6xv.cloudfront.net&type=ws#🇩🇪220Mb | Hetzner
 ---
-MiniDL: 257.5 Mbps | RawSpeed: 257.48Mbps | Delay: 53.9 ms | MiniLatency: 406 ms | IP: 178.104.20.112 | Name: 🇩🇪325Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1f4urqtjo8prx.cloudfront.net&path=/&security=tls&sni=d1f4urqtjo8prx.cloudfront.net&type=ws#🇩🇪325Mb | Hetzner
+MiniDL: 171.4 Mbps | RawSpeed: 171.41Mbps | Delay: 62.8 ms | MiniLatency: 276 ms | IP: 178.104.128.227 | Name: 🇩🇪372Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1ybuqvwe5q3v2.cloudfront.net&path=/&security=tls&sni=d1ybuqvwe5q3v2.cloudfront.net&type=ws#🇩🇪372Mb | Hetzner
 ---
-MiniDL: 256.4 Mbps | RawSpeed: 256.35Mbps | Delay: 51.2 ms | MiniLatency: 274 ms | IP: 91.107.240.42 | Name: 🇩🇪326Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d28vkbmq29hept.cloudfront.net&path=/&security=tls&sni=d28vkbmq29hept.cloudfront.net&type=ws#🇩🇪326Mb | Hetzner
+MiniDL: 169.3 Mbps | RawSpeed: 169.29Mbps | Delay: 49.9 ms | MiniLatency: 404 ms | IP: 91.107.145.210 | Name: 🇩🇪219Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2269z1pj4ngav.cloudfront.net&path=/&security=tls&sni=d2269z1pj4ngav.cloudfront.net&type=ws#🇩🇪219Mb | Hetzner
 ---
-MiniDL: 245.7 Mbps | RawSpeed: 245.69Mbps | Delay: 50.3 ms | MiniLatency: 264 ms | IP: 116.203.40.29 | Name: 🇩🇪368Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=di9hjz5ecyze6.cloudfront.net&path=/&security=tls&sni=di9hjz5ecyze6.cloudfront.net&type=ws#🇩🇪368Mb | Hetzner
+MiniDL: 166.6 Mbps | RawSpeed: 166.61Mbps | Delay: 60.1 ms | MiniLatency: 305 ms | IP: 5.75.192.182 | Name: 🇩🇪372Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d274l6nhg4w83n.cloudfront.net&path=/&security=tls&sni=d274l6nhg4w83n.cloudfront.net&type=ws#🇩🇪372Mb | Hetzner
 ---
-MiniDL: 243.6 Mbps | RawSpeed: 243.59Mbps | Delay: 52.4 ms | MiniLatency: 271 ms | IP: 91.107.145.210 | Name: 🇩🇪404Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2269z1pj4ngav.cloudfront.net&path=/&security=tls&sni=d2269z1pj4ngav.cloudfront.net&type=ws#🇩🇪404Mb | Hetzner
+MiniDL: 165.9 Mbps | RawSpeed: 165.87Mbps | Delay: 58.7 ms | MiniLatency: 284 ms | IP: 46.225.224.84 | Name: 🇩🇪221Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d24f6c9l7fxvak.cloudfront.net&path=/&security=tls&sni=d24f6c9l7fxvak.cloudfront.net&type=ws#🇩🇪221Mb | Hetzner
 ---
-MiniDL: 239.9 Mbps | RawSpeed: 239.89Mbps | Delay: 49.7 ms | MiniLatency: 296 ms | IP: 5.75.202.198 | Name: 🇩🇪351Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2pogzrl1kqnad.cloudfront.net&path=/&security=tls&sni=d2pogzrl1kqnad.cloudfront.net&type=ws#🇩🇪351Mb | Hetzner
+MiniDL: 163.3 Mbps | RawSpeed: 163.31Mbps | Delay: 51.9 ms | MiniLatency: 284 ms | IP: 116.203.40.29 | Name: 🇩🇪453Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=di9hjz5ecyze6.cloudfront.net&path=/&security=tls&sni=di9hjz5ecyze6.cloudfront.net&type=ws#🇩🇪453Mb | Hetzner
 ---
-MiniDL: 238.3 Mbps | RawSpeed: 238.31Mbps | Delay: 36.1 ms | MiniLatency: 2138 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://40600c8a-730a-411c-b72b-c3bca115dcf7@95.163.183.246:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+MiniDL: 158.7 Mbps | RawSpeed: 158.72Mbps | Delay: 63.0 ms | MiniLatency: 321 ms | IP: 91.107.246.16 | Name: 🇩🇪224Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2wj0uvcux5h4k.cloudfront.net&path=/&security=tls&sni=d2wj0uvcux5h4k.cloudfront.net&type=ws#🇩🇪224Mb | Hetzner
 ---
-MiniDL: 238.2 Mbps | RawSpeed: 238.25Mbps | Delay: 49.4 ms | MiniLatency: 297 ms | IP: 91.107.149.73 | Name: 🇩🇪286Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dqxt5nwnm8q7p.cloudfront.net&path=/&security=tls&sni=dqxt5nwnm8q7p.cloudfront.net&type=ws#🇩🇪286Mb | Hetzner
+MiniDL: 152.7 Mbps | RawSpeed: 152.70Mbps | Delay: 55.7 ms | MiniLatency: 334 ms | IP: 5.75.200.110 | Name: 🇩🇪215Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1pp2ypwsjh3db.cloudfront.net&path=/&security=tls&sni=d1pp2ypwsjh3db.cloudfront.net&type=ws#🇩🇪215Mb | Hetzner
 ---
-MiniDL: 237.9 Mbps | RawSpeed: 237.86Mbps | Delay: 50.2 ms | MiniLatency: 392 ms | IP: 91.107.245.234 | Name: 🇩🇪401Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d3q626h99xv6xv.cloudfront.net&path=/&security=tls&sni=d3q626h99xv6xv.cloudfront.net&type=ws#🇩🇪401Mb | Hetzner
+MiniDL: 148.6 Mbps | RawSpeed: 148.56Mbps | Delay: 57.2 ms | MiniLatency: 345 ms | IP: 46.225.123.146 | Name: 🇩🇪299Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d36nkq54aoc861.cloudfront.net&path=/&security=tls&sni=d36nkq54aoc861.cloudfront.net&type=ws#🇩🇪299Mb | Hetzner
 ---
-MiniDL: 232.7 Mbps | RawSpeed: 232.68Mbps | Delay: 52.8 ms | MiniLatency: 403 ms | IP: 46.224.235.237 | Name: 🇩🇪357Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d23iuljn5k9z1j.cloudfront.net&path=/&security=tls&sni=d23iuljn5k9z1j.cloudfront.net&type=ws#🇩🇪357Mb | Hetzner
+MiniDL: 131.3 Mbps | RawSpeed: 131.27Mbps | Delay: 60.6 ms | MiniLatency: 359 ms | IP: 116.203.60.218 | Name: 🇩🇪221Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d219x6s2b0tbow.cloudfront.net&path=/&security=tls&sni=d219x6s2b0tbow.cloudfront.net&type=ws#🇩🇪221Mb | Hetzner
 ---
-MiniDL: 231.9 Mbps | RawSpeed: 231.92Mbps | Delay: 53.7 ms | MiniLatency: 291 ms | IP: 91.107.244.86 | Name: 🇩🇪417Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2jhkzkkbqsx8m.cloudfront.net&path=/&security=tls&sni=d2jhkzkkbqsx8m.cloudfront.net&type=ws#🇩🇪417Mb | Hetzner
+MiniDL: 126.5 Mbps | RawSpeed: 126.50Mbps | Delay: 50.0 ms | MiniLatency: 335 ms | IP: 46.224.194.109 | Name: 🇩🇪456Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d39dlcpqfznvwm.cloudfront.net&path=/&security=tls&sni=d39dlcpqfznvwm.cloudfront.net&type=ws#🇩🇪456Mb | Hetzner
 ---
-MiniDL: 227.0 Mbps | RawSpeed: 227.00Mbps | Delay: 52.3 ms | MiniLatency: 300 ms | IP: 91.107.246.255 | Name: 🇩🇪346Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d114hsor5wwwt4.cloudfront.net&path=/&security=tls&sni=d114hsor5wwwt4.cloudfront.net&type=ws#🇩🇪346Mb | Hetzner
+MiniDL: 114.8 Mbps | RawSpeed: 114.76Mbps | Delay: 49.3 ms | MiniLatency: 284 ms | IP: 46.224.50.120 | Name: 🇩🇪226Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d28l8t0kngsufn.cloudfront.net&path=/&security=tls&sni=d28l8t0kngsufn.cloudfront.net&type=ws#🇩🇪226Mb | Hetzner
 ---
-MiniDL: 216.0 Mbps | RawSpeed: 216.03Mbps | Delay: 51.6 ms | MiniLatency: 330 ms | IP: 91.107.254.10 | Name: 🇩🇪223Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2t74h7x0ly31g.cloudfront.net&path=/&security=tls&sni=d2t74h7x0ly31g.cloudfront.net&type=ws#🇩🇪223Mb | Hetzner
+MiniDL: 112.3 Mbps | RawSpeed: 112.32Mbps | Delay: 55.1 ms | MiniLatency: 580 ms | IP: 178.104.22.210 | Name: 🇩🇪228Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2aq8ciyoed6g4.cloudfront.net&path=/&security=tls&sni=d2aq8ciyoed6g4.cloudfront.net&type=ws#🇩🇪228Mb | Hetzner
 ---
-MiniDL: 211.6 Mbps | RawSpeed: 211.63Mbps | Delay: 52.1 ms | MiniLatency: 301 ms | IP: 167.235.70.172 | Name: 🇩🇪399Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2dh80guserwjs.cloudfront.net&path=/&security=tls&sni=d2dh80guserwjs.cloudfront.net&type=ws#🇩🇪399Mb | Hetzner
+MiniDL: 110.6 Mbps | RawSpeed: 110.63Mbps | Delay: 48.7 ms | MiniLatency: 733 ms | IP: 178.104.20.112 | Name: 🇩🇪217Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1f4urqtjo8prx.cloudfront.net&path=/&security=tls&sni=d1f4urqtjo8prx.cloudfront.net&type=ws#🇩🇪217Mb | Hetzner
 ---
-MiniDL: 211.3 Mbps | RawSpeed: 211.27Mbps | Delay: 56.4 ms | MiniLatency: 285 ms | IP: 5.75.200.110 | Name: 🇩🇪343Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1pp2ypwsjh3db.cloudfront.net&path=/&security=tls&sni=d1pp2ypwsjh3db.cloudfront.net&type=ws#🇩🇪343Mb | Hetzner
+MiniDL: 104.0 Mbps | RawSpeed: 104.02Mbps | Delay: 57.7 ms | MiniLatency: 340 ms | IP: 91.107.254.10 | Name: 🇩🇪246Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2t74h7x0ly31g.cloudfront.net&path=/&security=tls&sni=d2t74h7x0ly31g.cloudfront.net&type=ws#🇩🇪246Mb | Hetzner
 ---
-MiniDL: 209.2 Mbps | RawSpeed: 209.19Mbps | Delay: 47.2 ms | MiniLatency: 287 ms | IP: 178.104.128.227 | Name: 🇩🇪449Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1ybuqvwe5q3v2.cloudfront.net&path=/&security=tls&sni=d1ybuqvwe5q3v2.cloudfront.net&type=ws#🇩🇪449Mb | Hetzner
+MiniDL: 103.1 Mbps | RawSpeed: 103.11Mbps | Delay: 37.2 ms | MiniLatency: 353 ms | IP: 84.54.39.184 | Name: 🇷🇺350Mb | Vpsville
+vless://3de26259-e6b4-4b22-af75-2f473d548e94@84.54.39.184:2083?encryption=none&fp=qq&headerType=none&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=goya.rutube.ru&type=grpc#🇷🇺350Mb | Vpsville
 ---
-MiniDL: 205.4 Mbps | RawSpeed: 205.37Mbps | Delay: 50.3 ms | MiniLatency: 308 ms | IP: 91.107.249.49 | Name: 🇩🇪348Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2ttwif2oxuebl.cloudfront.net&path=/&security=tls&sni=d2ttwif2oxuebl.cloudfront.net&type=ws#🇩🇪348Mb | Hetzner
+MiniDL: 101.0 Mbps | RawSpeed: 100.95Mbps | Delay: 51.8 ms | MiniLatency: 326 ms | IP: 178.104.125.206 | Name: 🇩🇪226Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1nmygulqanocr.cloudfront.net&path=/&security=tls&sni=d1nmygulqanocr.cloudfront.net&type=ws#🇩🇪226Mb | Hetzner
 ---
-MiniDL: 198.4 Mbps | RawSpeed: 198.43Mbps | Delay: 51.6 ms | MiniLatency: 332 ms | IP: 178.104.125.206 | Name: 🇩🇪461Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1nmygulqanocr.cloudfront.net&path=/&security=tls&sni=d1nmygulqanocr.cloudfront.net&type=ws#🇩🇪461Mb | Hetzner
+MiniDL: 98.2 Mbps | RawSpeed: 98.25Mbps | Delay: 84.7 ms | MiniLatency: 439 ms | IP: 2a12:bec4:1ac1:f9:: | Name: 🇵🇱123Mb | hostoff Csl
+vless://4f0b281e-8a49-4a2d-9e54-3abe1c9b9d1f@pl1.trost-shield.ru:58934?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=eITCPDeBwWNWFgPIFHCpnFZ_x5kQ3DxsKO8LISMDczw&security=reality&sid=0588&sni=www.sony.com&type=tcp#🇵🇱123Mb | hostoff Csl
 ---
-MiniDL: 188.6 Mbps | RawSpeed: 188.58Mbps | Delay: 49.7 ms | MiniLatency: 291 ms | IP: 91.107.242.175 | Name: 🇩🇪341Mb | Hetzner
+MiniDL: 97.1 Mbps | RawSpeed: 97.07Mbps | Delay: 50.5 ms | MiniLatency: 281 ms | IP: 5.75.202.198 | Name: 🇩🇪376Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2pogzrl1kqnad.cloudfront.net&path=/&security=tls&sni=d2pogzrl1kqnad.cloudfront.net&type=ws#🇩🇪376Mb | Hetzner
+---
+MiniDL: 91.5 Mbps | RawSpeed: 91.47Mbps | Delay: 49.0 ms | MiniLatency: 769 ms | IP: 162.55.183.167 | Name: 🇩🇪415Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1mr7skcyc398h.cloudfront.net&path=/&security=tls&sni=d1mr7skcyc398h.cloudfront.net&type=ws#🇩🇪415Mb | Hetzner
+---
+MiniDL: 70.3 Mbps | RawSpeed: 70.33Mbps | Delay: 103.0 ms | MiniLatency: 1333 ms | IP: 89.124.96.250 | Name: 🇳🇱82Mb | Servers Tech Fzco
+vless://af6f2c82-bab8-4db7-b878-df07d8061cf1@node-nl1.rmp-inc.top:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=19Z9Syrik36ltvmS01HL2hsxcPCjlEF16wXWOozJHTU&security=reality&sid=&sni=eh.vk.com&type=tcp#🇳🇱82Mb | Servers Tech Fzco
+---
+MiniDL: 67.4 Mbps | RawSpeed: 67.36Mbps | Delay: 59.1 ms | MiniLatency: 790 ms | IP: 91.99.109.236 | Name: 🇩🇪216Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dhfu0wf8on7ln.cloudfront.net&path=/&security=tls&sni=dhfu0wf8on7ln.cloudfront.net&type=ws#🇩🇪216Mb | Hetzner
+---
+MiniDL: 63.8 Mbps | RawSpeed: 63.75Mbps | Delay: 48.8 ms | MiniLatency: 547 ms | IP: 91.107.249.49 | Name: 🇩🇪321Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2ttwif2oxuebl.cloudfront.net&path=/&security=tls&sni=d2ttwif2oxuebl.cloudfront.net&type=ws#🇩🇪321Mb | Hetzner
+---
+MiniDL: 59.3 Mbps | RawSpeed: 59.33Mbps | Delay: 59.2 ms | MiniLatency: 1688 ms | IP: 91.107.244.86 | Name: 🇩🇪422Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2jhkzkkbqsx8m.cloudfront.net&path=/&security=tls&sni=d2jhkzkkbqsx8m.cloudfront.net&type=ws#🇩🇪422Mb | Hetzner
+---
+MiniDL: 58.6 Mbps | RawSpeed: 58.58Mbps | Delay: 123.8 ms | MiniLatency: 569 ms | IP: 2001:41d0:601:1100::6bf1 | Name: 🇵🇱98Mb | OVH
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?allowinsecure=0&authority=&encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🇵🇱98Mb | OVH
+---
+MiniDL: 57.1 Mbps | RawSpeed: 57.09Mbps | Delay: 57.5 ms | MiniLatency: 306 ms | IP: 167.235.70.172 | Name: 🇩🇪392Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2dh80guserwjs.cloudfront.net&path=/&security=tls&sni=d2dh80guserwjs.cloudfront.net&type=ws#🇩🇪392Mb | Hetzner
+---
+MiniDL: 50.8 Mbps | RawSpeed: 50.77Mbps | Delay: 151.2 ms | MiniLatency: 1106 ms | IP: 138.124.123.96 | Name: 🇺🇸170Mb | Aeza Group
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@us.wireguardvpnbotik.com:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&security=reality&sid=24bcbc4cdf370ec1&sni=avatars.mds.yandex.net&type=tcp#🇺🇸170Mb | Aeza Group
+---
+MiniDL: 45.5 Mbps | RawSpeed: 45.49Mbps | Delay: 52.4 ms | MiniLatency: 420 ms | IP: 31.130.128.220 | Name: 🇷🇺124Mb | Timeweb LLP
+vless://3de26259-e6b4-4b22-af75-2f473d548e94@nl.appav.online:2083?encryption=none&flow=&fp=qq&headerType=none&packetEncoding=xudp&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=apple.com&type=grpc#🇷🇺124Mb | Timeweb LLP
+---
+MiniDL: 36.1 Mbps | RawSpeed: 36.13Mbps | Delay: 143.3 ms | MiniLatency: 986 ms | IP: 138.124.123.96 | Name: 🇺🇸157Mb | Aeza Group
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@us.wireguardvpnbotik.com:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&security=reality&sid=eb4dab296fa65826&sni=avatars.mds.yandex.net&type=tcp#🇺🇸157Mb | Aeza Group
+---
+MiniDL: 30.2 Mbps | RawSpeed: 30.25Mbps | Delay: 31.8 ms | MiniLatency: 231 ms | IP: 45.12.70.96 | Name: 🇫🇮196Mb | Baykov Ilya Sergeevich
+vless://a3a90d47-df89-496b-a578-814d8c85d8fc@finland-1.mutabor-sec.ru:37623?allowinsecure=0&encryption=none&fp=random&headerType=none&pbk=VSD97wC6JYviZSi66w6leWdOljj_dr4LaibgyoGDLnw&security=reality&sid=458dfb15fb&sni=www.mutabor-sec.ru&spx=/VGg5te9EB8nbn8a&type=tcp#🇫🇮196Mb | Baykov Ilya Sergeevich
+---
+MiniDL: 28.4 Mbps | RawSpeed: 28.41Mbps | Delay: 148.1 ms | MiniLatency: 956 ms | IP: 77.110.123.80 | Name: 🇺🇸136Mb | Aeza Group
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@us.wireguardvpnbotik.com:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&security=reality&sid=f1a136c16477ae3c&sni=avatars.mds.yandex.net&type=tcp#🇺🇸136Mb | Aeza Group
+---
+MiniDL: 17.8 Mbps | RawSpeed: 17.76Mbps | Delay: 169.7 ms | MiniLatency: 988 ms | IP: 85.234.100.16 | Name: 🇩🇪 Germany, Frankfurt am Main | [BL]
+vless://53821f3c-5b03-456a-89f3-f8379f130752@de12.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=firefox&type=ws&sni=de12.abvpn.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+---
+MiniDL: 17.5 Mbps | RawSpeed: 17.47Mbps | Delay: 47.2 ms | MiniLatency: 387 ms | IP: 91.107.243.194 | Name: 🇩🇪350Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2fpx0lirf9lpk.cloudfront.net&path=/&security=tls&sni=d2fpx0lirf9lpk.cloudfront.net&type=ws#🇩🇪350Mb | Hetzner
+---
+MiniDL: 15.2 Mbps | RawSpeed: 15.21Mbps | Delay: 74.1 ms | MiniLatency: 391 ms | IP: 2a11:3b80:1:0:35::1 | Name: 🇪🇪62Mb | SmartApe OU
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@87.236.146.32:443?flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#🇪🇪62Mb | SmartApe OU
+---
+MiniDL: 15.0 Mbps | RawSpeed: 15.02Mbps | Delay: 86.6 ms | MiniLatency: 450 ms | IP: 2001:1600:13:101::7e4 | Name: 🇨🇭76Mb | Infomaniak Network SA
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?allowinsecure=0&authority=&encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#🇨🇭76Mb | Infomaniak Network SA
+---
+MiniDL: 14.9 Mbps | RawSpeed: 14.89Mbps | Delay: 151.6 ms | MiniLatency: 1952 ms | IP: 138.124.123.96 | Name: 🇺🇸146Mb | Aeza Group
+vless://658786e5-f302-48e2-b321-f4dc6da2a398@us.wireguardvpnbotik.com:8443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=SEUx3TGHAcwEfAD2DShY_YdpFHRH6UdTUBpKBrRdyEE&security=reality&sid=a5cc72cfd6b160f5&sni=avatars.mds.yandex.net&type=tcp#🇺🇸146Mb | Aeza Group
+---
+MiniDL: 13.7 Mbps | RawSpeed: 13.65Mbps | Delay: 58.6 ms | MiniLatency: 612 ms | IP: 2a0b:4143:0:3c5::2 | Name: 🇩🇪185Mb | aurologic GmbH
+vless://91ce09d4-1879-4a24-a321-58fa5eefe6f8@ru4.b2-ray.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=U0kSbayNCG0zq6WQlCPYoFyzWqbJ7ZpxxROBYuHIQhc&security=reality&sid=4becb820&sni=ya.ru&spx=%2Fy7WBvdzHL357DPF&type=tcp#🇩🇪185Mb | aurologic GmbH
+---
+MiniDL: 9.4 Mbps | RawSpeed: 9.38Mbps | Delay: 53.8 ms | MiniLatency: 602 ms | IP: 46.224.235.237 | Name: 🇩🇪415Mb | Hetzner
+vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d23iuljn5k9z1j.cloudfront.net&path=/&security=tls&sni=d23iuljn5k9z1j.cloudfront.net&type=ws#🇩🇪415Mb | Hetzner
+---
+MiniDL: 7.8 Mbps | RawSpeed: 7.81Mbps | Delay: 353.6 ms | MiniLatency: 1821 ms | IP: 62.133.62.2 | Name: 🇫🇷 France, Paris | [BL]
+vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-35.de-nfast.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=fr.de-nfast.com&spx=/#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+---
+MiniDL: 5.1 Mbps | RawSpeed: 5.06Mbps | Delay: 434.3 ms | MiniLatency: 400 ms | IP: 2a09:7c47:0:2e::1 | Name: 🇷🇺 Russia, Moscow | 🌐 | [IPv6] | [BL]
+vless://5844340d-634b-4fef-8524-db3ba38112f0@ru186.tcpnet.fun:7443?encryption=none&fp=firefox&mode=gun&pbk=yP0gYZ4Pc4IehdZwqfYJN2WGR14LVQBReK8A4fMW128&security=reality&serviceName=grpc&sid=2a9a96e9&sni=ru186.tcpnet.fun&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+---
+MiniDL: 4.8 Mbps | RawSpeed: 4.85Mbps | Delay: 59.4 ms | MiniLatency: 348 ms | IP: 91.107.242.175 | Name: 🇩🇪341Mb | Hetzner
 vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d3fnxumr6cd5wj.cloudfront.net&path=/&security=tls&sni=d3fnxumr6cd5wj.cloudfront.net&type=ws#🇩🇪341Mb | Hetzner
 ---
-MiniDL: 187.3 Mbps | RawSpeed: 187.27Mbps | Delay: 50.4 ms | MiniLatency: 289 ms | IP: 46.225.224.84 | Name: 🇩🇪345Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d24f6c9l7fxvak.cloudfront.net&path=/&security=tls&sni=d24f6c9l7fxvak.cloudfront.net&type=ws#🇩🇪345Mb | Hetzner
+MiniDL: 2.7 Mbps | RawSpeed: 2.72Mbps | Delay: 182.9 ms | MiniLatency: 1581 ms | IP: 148.135.84.67 | Name: 🇺🇸 United States, Las Vegas (Downtown Las Vegas) | [BL]
+vless://f9f05e58-9e62-487b-b33b-9b88e2a3e92b@usrna.osaip.net:15055?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=violet&security=tls&fp=chrome&insecure=1&sni=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%28Downtown%20Las%20Vegas%29%20%7C%20%5BBL%5D
 ---
-MiniDL: 177.0 Mbps | RawSpeed: 177.02Mbps | Delay: 76.9 ms | MiniLatency: 1066 ms | IP: 195.133.63.155 | Name: 🇨🇿168Mb | Timeweb LLP
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@195.133.63.155:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sid=9a4c1d8f2e3b4a11&sni=www.cloudflare.com&type=tcp#🇨🇿168Mb | Timeweb LLP
+MiniDL: 0.6 Mbps | RawSpeed: 559.39Kbps | Delay: 133.4 ms | MiniLatency: 2846 ms | IP: 158.160.240.92 | Name: 🇷🇺 Russia [*CIDR] YA
+vless://533df493-2249-4e6d-8638-2d39b4d6b577@158.160.240.92:1443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=www.amd.com&pbk=JeMoMGNqaxs0RkMU75hvpO3UbfL0Xc8UFDcf0uPBj3A&sid=c7963b161540ef#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 ---
-MiniDL: 175.2 Mbps | RawSpeed: 175.19Mbps | Delay: 48.9 ms | MiniLatency: 302 ms | IP: 46.224.194.109 | Name: 🇩🇪380Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d39dlcpqfznvwm.cloudfront.net&path=/&security=tls&sni=d39dlcpqfznvwm.cloudfront.net&type=ws#🇩🇪380Mb | Hetzner
+MiniDL: 0.5 Mbps | RawSpeed: 452.23Kbps | Delay: 35.9 ms | MiniLatency: 406 ms | IP: 2a0c:16c0:505:7e::2d95 | Name: 🇱🇻 Latvia, Riga | 🌐 | [IPv6] | [BL]
+vless://3fa43a99-b7c8-4d73-889e-63d186f41d5b@91.197.1.218:15655?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=bSpAbv0pfxf2D8OySqg2HiPTQN90wPv7hKD2e47ZtB4&sid=3879&packetEncoding=xudp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 ---
-MiniDL: 172.5 Mbps | RawSpeed: 172.48Mbps | Delay: 52.4 ms | MiniLatency: 316 ms | IP: 91.107.243.194 | Name: 🇩🇪396Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2fpx0lirf9lpk.cloudfront.net&path=/&security=tls&sni=d2fpx0lirf9lpk.cloudfront.net&type=ws#🇩🇪396Mb | Hetzner
+MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 46.6 ms | MiniLatency: 0 ms | IP: 2a0c:16c2:500:c46::d2ae | Name: 🇳🇱 The Netherlands, Amsterdam | [IPv6] | [BL]
+vless://ec486464-46c8-4f80-acc1-a3ccdcf01744@178.173.252.228:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6OvNu3z9uVh1Br6hIOQOz4Qai7xuykdjcvtqiLqNRUs&security=reality&sid=95fe9eef&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 ---
-MiniDL: 160.2 Mbps | RawSpeed: 160.15Mbps | Delay: 87.1 ms | MiniLatency: 558 ms | IP: 2a0b:4143:0:3c5::2 | Name: 🇫🇮240Mb | H2nexus
-vless://91ce09d4-1879-4a24-a321-58fa5eefe6f8@ru3.b2-ray.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vC8eHsS-_S5vKUHJG-Ry87eR9epEMnyPb347mMiRQx0&security=reality&sid=6117cc3b&sni=ya.ru&spx=%2F5xdnkS0eKKIVW8K&type=tcp#🇫🇮240Mb | H2nexus
+MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 174.3 ms | MiniLatency: 0 ms | IP: 8.217.179.217 | Name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@8.217.179.217:443?security=tls&sni=xianggang3.zqjsqapi.com&type=ws&host=xianggang3.zqjsqapi.com&path=%2Fproxy&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 ---
-MiniDL: 157.9 Mbps | RawSpeed: 157.91Mbps | Delay: 68.9 ms | MiniLatency: 252 ms | IP: 95.163.182.169 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://d19c562c-61ff-44a3-861c-273add2e14f8@95.163.182.169:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 196.0 ms | MiniLatency: 0 ms | IP: 8.210.35.208 | Name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@8.210.35.208:443?fp=chrome&host=xianggang2.zqjsqapi.com&path=/proxy&security=tls&sni=speedtest.tinkoff.ru&type=ws&allowInsecure=1&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 ---
-MiniDL: 152.9 Mbps | RawSpeed: 152.91Mbps | Delay: 52.5 ms | MiniLatency: 419 ms | IP: 91.107.246.16 | Name: 🇩🇪316Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2wj0uvcux5h4k.cloudfront.net&path=/&security=tls&sni=d2wj0uvcux5h4k.cloudfront.net&type=ws#🇩🇪316Mb | Hetzner
+MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 196.8 ms | MiniLatency: 0 ms | IP: 8.210.35.208 | Name: 🇭🇰 Hong Kong, Hong Kong | [BL]
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@8.210.35.208:443?host=xianggang2.zqjsqapi.com&path=/proxy&security=tls&sni=&type=ws#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
 ---
-MiniDL: 146.7 Mbps | RawSpeed: 146.69Mbps | Delay: 49.2 ms | MiniLatency: 367 ms | IP: 162.55.183.167 | Name: 🇩🇪465Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d1mr7skcyc398h.cloudfront.net&path=/&security=tls&sni=d1mr7skcyc398h.cloudfront.net&type=ws#🇩🇪465Mb | Hetzner
+MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 200.3 ms | MiniLatency: 0 ms | IP: 158.160.240.92 | Name: 🇷🇺 Russia [*CIDR] YA
+vless://533df493-2249-4e6d-8638-2d39b4d6b577@lte2.krevetkavpn6666.ru:1443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=JeMoMGNqaxs0RkMU75hvpO3UbfL0Xc8UFDcf0uPBj3A&security=reality&sid=c7963b161540ef&sni=www.amd.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 ---
-MiniDL: 145.6 Mbps | RawSpeed: 145.59Mbps | Delay: 51.5 ms | MiniLatency: 273 ms | IP: 46.224.50.120 | Name: 🇩🇪452Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d28l8t0kngsufn.cloudfront.net&path=/&security=tls&sni=d28l8t0kngsufn.cloudfront.net&type=ws#🇩🇪452Mb | Hetzner
+MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 201.0 ms | MiniLatency: 0 ms | IP: 158.160.240.92 | Name: 🇷🇺 Russia [*CIDR] YA
+vless://688f20d7-ad3d-49fc-82ae-33eca0ba0349@lte2.krevetkavpn6666.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=qq&security=reality&pbk=z9dOqH2pEKYk8V7opl4npiUUSXzj6yRHDYj9Xl95znY&sid=b99e82f6d99f6e&packetEncoding=xudp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 ---
-MiniDL: 144.8 Mbps | RawSpeed: 144.79Mbps | Delay: 49.3 ms | MiniLatency: 285 ms | IP: 178.104.22.210 | Name: 🇩🇪510Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2aq8ciyoed6g4.cloudfront.net&path=/&security=tls&sni=d2aq8ciyoed6g4.cloudfront.net&type=ws#🇩🇪510Mb | Hetzner
+MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 234.8 ms | MiniLatency: 0 ms | IP: 2a0f:cdc6:500:24aa::2 | Name: 🇩🇪 Germany, Frankfurt am Main (Innenstadt I) | 🌐 | [IPv6] | [BL]
+vless://f8f46625-d418-41cd-a44f-01ec7498245d@109.237.97.83:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AB6wH4gz73w4F0Fdt8RlJTiNWY9BJKn9NOUwPQPVjg4&sni=www.google.com&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 ---
-MiniDL: 144.5 Mbps | RawSpeed: 144.49Mbps | Delay: 549.0 ms | MiniLatency: 563 ms | IP: 95.163.182.169 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://4984b534-98a8-4e1c-a079-a48d9d9dc86c@95.163.182.169:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 133.2 Mbps | RawSpeed: 133.21Mbps | Delay: 58.5 ms | MiniLatency: 582 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://40600c8a-730a-411c-b72b-c3bca115dcf7@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 129.7 Mbps | RawSpeed: 129.73Mbps | Delay: 48.1 ms | MiniLatency: 301 ms | IP: 91.107.251.167 | Name: 🇩🇪361Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d2241b25w3zftf.cloudfront.net&path=/&security=tls&sni=d2241b25w3zftf.cloudfront.net&type=ws#🇩🇪361Mb | Hetzner
----
-MiniDL: 129.7 Mbps | RawSpeed: 129.65Mbps | Delay: 18.8 ms | MiniLatency: 161 ms | IP: 45.92.176.189 | Name: 🇷🇺452Mb | JSC Selectel
-vless://b33d24eb-1d34-4b5f-bae2-31f5720fb509@ru1.krevetkavpn.ru:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=uj0IWY_E4-rnooWaJ9aLs1OwBHjERcIsicINge5HNGk&security=reality&sid=10157c5a414da989&sni=eh.vk.com&type=tcp#🇷🇺452Mb | JSC Selectel
----
-MiniDL: 126.4 Mbps | RawSpeed: 126.42Mbps | Delay: 49.0 ms | MiniLatency: 294 ms | IP: 116.203.60.218 | Name: 🇩🇪480Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=d219x6s2b0tbow.cloudfront.net&path=/&security=tls&sni=d219x6s2b0tbow.cloudfront.net&type=ws#🇩🇪480Mb | Hetzner
----
-MiniDL: 106.3 Mbps | RawSpeed: 106.34Mbps | Delay: 131.8 ms | MiniLatency: 209 ms | IP: 194.67.100.111 | Name: 🇷🇺105Mb | Domain names registrar REGRU
-vless://91ce09d4-1879-4a24-a321-58fa5eefe6f8@ru4.b2-ray.ru:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=U0kSbayNCG0zq6WQlCPYoFyzWqbJ7ZpxxROBYuHIQhc&security=reality&sid=4becb820&sni=ya.ru&spx=%2Fy7WBvdzHL357DPF&type=tcp#🇷🇺105Mb | Domain names registrar REGRU
----
-MiniDL: 92.3 Mbps | RawSpeed: 92.33Mbps | Delay: 52.5 ms | MiniLatency: 300 ms | IP: 91.99.109.236 | Name: 🇩🇪393Mb | Hetzner
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=dhfu0wf8on7ln.cloudfront.net&path=/&security=tls&sni=dhfu0wf8on7ln.cloudfront.net&type=ws#🇩🇪393Mb | Hetzner
----
-MiniDL: 90.7 Mbps | RawSpeed: 90.70Mbps | Delay: 64.4 ms | MiniLatency: 1232 ms | IP: 95.163.182.169 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@95.163.182.169:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 64.5 Mbps | RawSpeed: 64.50Mbps | Delay: 42.9 ms | MiniLatency: 881 ms | IP: 95.163.183.246 | Name: 🇷🇺61Mb | VK
-vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.183.246:443?encryption=none&fp=chrome&mode=gun&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&security=reality&serviceName=UpdateService&sid=aefbcf7fc283bd55&sni=eh.vk.com&type=grpc#🇷🇺61Mb | VK
----
-MiniDL: 58.8 Mbps | RawSpeed: 58.84Mbps | Delay: 18.7 ms | MiniLatency: 194 ms | IP: 45.92.176.189 | Name: 🇷🇺589Mb | JSC Selectel
-vless://a4781dcf-a769-4ec6-8d01-b5c1c0b23163@ru1.krevetkavpn.ru:4443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=001mDXNrb0EpaqsrKz0B3HYr7OEde1FkZWQMrRgJ6mQ&security=reality&sid=5bea803a&sni=stats.vk-portal.net&type=tcp#🇷🇺589Mb | JSC Selectel
----
-MiniDL: 50.2 Mbps | RawSpeed: 50.18Mbps | Delay: 56.6 ms | MiniLatency: 343 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://4984b534-98a8-4e1c-a079-a48d9d9dc86c@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 41.5 Mbps | RawSpeed: 41.50Mbps | Delay: 49.6 ms | MiniLatency: 2478 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@95.163.183.246:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 27.6 Mbps | RawSpeed: 27.62Mbps | Delay: 33.8 ms | MiniLatency: 643 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 25.0 Mbps | RawSpeed: 25.02Mbps | Delay: 37.4 ms | MiniLatency: 236 ms | IP: 93.77.179.11 | Name: 🇷🇺113Mb | YandexCloud
-vless://564cfa99-9bf0-40bf-a9a8-685b2680c678@lte.krevetkavpn6666.ru:1443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=MVRNPCHMN7_U6X2c6AbxG52t_PFOaU09H3wdcDjqGUY&security=reality&sid=833fda1e&sni=www.sony.com&type=tcp#🇷🇺113Mb | YandexCloud
----
-MiniDL: 24.6 Mbps | RawSpeed: 24.59Mbps | Delay: 30.7 ms | MiniLatency: 180 ms | IP: 89.169.140.154 | Name: 🇷🇺126Mb | YandexCloud
-vless://be404fed-e697-466a-9bad-7c9b6fbb3338@89.169.140.154:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qURsRyIC4cOFGTEcRC3gTLW2zLP5Svu93Hn-bBlGfiY&security=reality&sid=0123456789abcdef&sni=ads.x5.ru&type=tcp#🇷🇺126Mb | YandexCloud
----
-MiniDL: 22.8 Mbps | RawSpeed: 22.75Mbps | Delay: 53.8 ms | MiniLatency: 616 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 19.4 Mbps | RawSpeed: 19.40Mbps | Delay: 239.2 ms | MiniLatency: 228 ms | IP: 93.77.179.11 | Name: 🇷🇺92Mb | YandexCloud
-vless://6c448828-453d-450e-81cc-21190b63475c@lte.krevetkavpn6666.ru:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=XU5l8xkBsyizFzVIFqIE9pDIj2P8_u6mxqQGbidacQk&security=reality&sid=fc8470&sni=www.tesla.com&type=tcp#🇷🇺92Mb | YandexCloud
----
-MiniDL: 18.4 Mbps | RawSpeed: 18.38Mbps | Delay: 22.8 ms | MiniLatency: 223 ms | IP: 158.160.240.92 | Name: 🇷🇺58Mb | YandexCloud
-vless://688f20d7-ad3d-49fc-82ae-33eca0ba0349@lte2.krevetkavpn6666.ru:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=z9dOqH2pEKYk8V7opl4npiUUSXzj6yRHDYj9Xl95znY&security=reality&sid=b99e82f6d99f6e&sni=www.apple.com&type=tcp#🇷🇺58Mb | YandexCloud
----
-MiniDL: 18.0 Mbps | RawSpeed: 17.96Mbps | Delay: 33.3 ms | MiniLatency: 146 ms | IP: 51.250.44.57 | Name: 🇷🇺56Mb | YandexCloud
-vless://be404fed-e697-466a-9bad-7c9b6fbb3338@51.250.44.57:1443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Ug9zK5WPuv88RhIYmf2OCZrg2Sn_VRaveCcwNDPRSiI&security=reality&sni=ads.x5.ru&type=tcp#🇷🇺56Mb | YandexCloud
----
-MiniDL: 13.3 Mbps | RawSpeed: 13.31Mbps | Delay: 49.2 ms | MiniLatency: 324 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://d19c562c-61ff-44a3-861c-273add2e14f8@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 11.9 Mbps | RawSpeed: 11.93Mbps | Delay: 26.7 ms | MiniLatency: 286 ms | IP: 158.160.240.92 | Name: 🇷🇺98Mb | YandexCloud
-vless://533df493-2249-4e6d-8638-2d39b4d6b577@lte2.krevetkavpn6666.ru:1443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=JeMoMGNqaxs0RkMU75hvpO3UbfL0Xc8UFDcf0uPBj3A&security=reality&sid=c7963b161540ef&sni=www.amd.com&type=tcp#🇷🇺98Mb | YandexCloud
----
-MiniDL: 11.5 Mbps | RawSpeed: 11.48Mbps | Delay: 302.9 ms | MiniLatency: 386 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://09b81314-7592-4ffb-9773-6351de8a7f74@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 9.3 Mbps | RawSpeed: 9.32Mbps | Delay: 49.6 ms | MiniLatency: 844 ms | IP: 2a03:6f02::d636 | Name: 🇳🇱70Mb | Jsc timeweb
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@147.45.227.198:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sid=c8f32a9d1b2c4d5e&sni=www.cloudflare.com&type=tcp#🇳🇱70Mb | Jsc timeweb
----
-MiniDL: 8.2 Mbps | RawSpeed: 8.16Mbps | Delay: 64.7 ms | MiniLatency: 622 ms | IP: 45.15.128.203 | Name: 🇵🇱 Poland, Warsaw | [BL]
-vless://698bc4fc-2966-4dbf-bc4f-a0f1df66eab5@cdn20.api-rutube.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.trahodrom.fun&fp=chrome&security=reality&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&sid=#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
----
-MiniDL: 6.5 Mbps | RawSpeed: 6.55Mbps | Delay: 48.5 ms | MiniLatency: 1712 ms | IP: 95.163.182.98 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://418ad4b9-d8be-447c-953d-e666fb154685@95.163.182.98:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 5.8 Mbps | RawSpeed: 5.85Mbps | Delay: 45.1 ms | MiniLatency: 2696 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 5.7 Mbps | RawSpeed: 5.68Mbps | Delay: 26.5 ms | MiniLatency: 2007 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://3de26259-e6b4-4b22-af75-2f473d548e94@95.163.183.246:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 34.8 ms | MiniLatency: 0 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://9b691795-7bbd-45a8-bca1-10684c064e60@95.163.183.246:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 40.4 ms | MiniLatency: 0 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia | 🌐 [*CIDR] VK
-vless://3de26259-e6b4-4b22-af75-2f473d548e94@vkc9.appav.net:7443?encryption=none&flow=&fp=qq&packetEncoding=xudp&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&security=reality&serviceName=UpdateService&sid=dd700a46e27751d1&sni=ads.x5.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: +InfGbps | Delay: 40.7 ms | MiniLatency: 1798 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://418ad4b9-d8be-447c-953d-e666fb154685@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: +InfGbps | Delay: 44.2 ms | MiniLatency: 318 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://db230947-ac07-462a-adeb-b0c7ec994cf5@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 45.9 ms | MiniLatency: 0 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://3de26259-e6b4-4b22-af75-2f473d548e94@95.163.183.246:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 46.8 ms | MiniLatency: 0 ms | IP: 64.188.63.144 | Name: 🇳🇱 The Netherlands, Amsterdam | [BL]
-vless://3de26259-e6b4-4b22-af75-2f473d548e94@nl.appav.online:2083?encryption=none&flow=&fp=qq&headerType=none&packetEncoding=xudp&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=apple.com&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
----
-MiniDL: 0.0 Mbps | RawSpeed: +InfGbps | Delay: 47.4 ms | MiniLatency: 437 ms | IP: 95.163.182.169 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.182.169:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 48.5 ms | MiniLatency: 0 ms | IP: 2a03:6f02::1:3c4f | Name: 🇳🇱121Mb | Jsc timeweb
-vless://c5ab5239-442d-4a25-9d74-e28e09a86e6a@whitemeow.nethcloud.top:443?encryption=none&flow=xtls-rprx-vision&fp=qq&headerType=none&packetEncoding=xudp&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#🇳🇱121Mb | Jsc timeweb
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 49.9 ms | MiniLatency: 0 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://3de26259-e6b4-4b22-af75-2f473d548e94@vkc9.appav.net:443?encryption=none&fp=chrome&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&security=reality&serviceName=UpdateService&sid=aefbcf7fc283bd55&sni=eh.vk.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: +InfGbps | Delay: 58.9 ms | MiniLatency: 1387 ms | IP: 95.163.182.98 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@95.163.182.98:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 60.3 ms | MiniLatency: 0 ms | IP: 95.163.182.98 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://d19c562c-61ff-44a3-861c-273add2e14f8@95.163.182.98:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: +InfGbps | Delay: 92.9 ms | MiniLatency: 1654 ms | IP: 95.163.182.98 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@95.163.182.98:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 114.7 ms | MiniLatency: 0 ms | IP: 217.16.28.63 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://d19c562c-61ff-44a3-861c-273add2e14f8@217.16.28.63:7443?encryption=none&fp=chrome&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&security=reality&serviceName=UpdateService&sid=dd700a46e27751d1&sni=ads.x5.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: +InfGbps | Delay: 268.3 ms | MiniLatency: 1436 ms | IP: 95.163.182.169 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://c72dc9f9-c6f2-4273-9f84-ffcf4c246771@95.163.182.169:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: +InfGbps | Delay: 281.0 ms | MiniLatency: 465 ms | IP: 95.163.182.169 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://40600c8a-730a-411c-b72b-c3bca115dcf7@95.163.182.169:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: +InfGbps | Delay: 290.6 ms | MiniLatency: 1816 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://db230947-ac07-462a-adeb-b0c7ec994cf5@95.163.183.246:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: +InfGbps | Delay: 301.7 ms | MiniLatency: 2991 ms | IP: 95.163.182.169 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://418ad4b9-d8be-447c-953d-e666fb154685@95.163.182.169:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 308.1 ms | MiniLatency: 0 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://9b691795-7bbd-45a8-bca1-10684c064e60@95.163.183.246:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=qq&sni=ads.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 313.1 ms | MiniLatency: 0 ms | IP: 95.163.183.246 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@95.163.183.246:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=eh.vk.com&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 317.3 ms | MiniLatency: 0 ms | IP: 217.16.28.63 | Name: 🇷🇺 Russia [*CIDR] VK
-vless://418ad4b9-d8be-447c-953d-e666fb154685@217.16.28.63:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=UpdateService&fp=chrome&sni=sso.passport.yandex.ru&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
----
-MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 584.9 ms | MiniLatency: 0 ms | IP: 46.30.46.161 | Name: 🇳🇱205Mb | Iron Hosting Centre LTD
-vless://e060f013-53e5-4d88-bf5e-f93baa562ac5@46.30.46.161:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=45Hmp5iW7pQJTt_0BDLBemuZDy4r8_txF2DshyqUE2Y&security=reality&sni=nlx1.braidpro.online&type=tcp#🇳🇱205Mb | Iron Hosting Centre LTD
+MiniDL: 0.0 Mbps | RawSpeed: 0.00Kbps | Delay: 614.7 ms | MiniLatency: 0 ms | IP: 79.127.133.103 | Name: 🇭🇺 Hungary [*CIDR] VK
+vless://e02d6b29-519c-41b9-9488-8396c77dd842@212.233.97.139:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D%20VK
 ---
